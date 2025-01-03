@@ -73,14 +73,12 @@ This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai
     ```
 
 10. Compile the code:
-   
-   **NOTE: Please refer to [#48](https://github.com/ai-winter/ros_motion_planning/issues/48) if you meet libignition dependency error.**
-
     ```bash
     cd ~/ros_motion_planning/scripts/
     conda activate opcd
     ./build.sh  # you may need to install catkin-tools using: sudo apt install python-catkin-tools
     ```
+    *NOTE: Please refer to [#48](https://github.com/ai-winter/ros_motion_planning/issues/48) if you meet libignition dependency error.*
 
 
 ## Quick Start
