@@ -18,7 +18,7 @@ This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai
 
     ```bash
     cd ~/
-    git clone xxxxxxxxx
+    git clone https://github.com/XinJingHao/OPCD-Navigation.git
     mv OPCD-Navigation ros_motion_planning # rename this repo, very important!
 
     ```
@@ -64,21 +64,49 @@ This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai
     libgoogle-glog-dev
     ```
 
-9. Compile the code：
+9. Compile the code:
+   
+   **NOTE: Please refer to [#48](https://github.com/ai-winter/ros_motion_planning/issues/48) if you meet libignition dependency error.**
 
-10. Launch the simulation environment
-
-11. Run the OPCD navigation system
-
-
-
-
-
+    ```bash
+    cd ~/ros_motion_planning/scripts/
+    ./build.sh  # you may need to install catkin-tools using: sudo apt install python-catkin-tools
+    ```
 
 
+## Quick Start
+1. Launch the simulation environments:
+    ```bash
+    cd ~/ros_motion_planning/scripts/
+    ./ColorDynamic.sh # wait for the Gazebo and Rviz to get ready
+    ```
 
+2. Start the **OkayPlan** global planner:
+    ```bash
+    cd ~/ros_motion_planning/src/sim_env/scripts/OkayPlan_ColorDynamic/Play/OkayPlan/
+    conda activate opcd
+    python OkayPlan_main.py
+    ```
 
+3. Start the **ColorDynamic** local planner:
+    ```bash
+    cd ~/ros_motion_planning/src/sim_env/scripts/OkayPlan_ColorDynamic/Play/ColorDynamic/
+    conda activate opcd
+    python ColorDynamic_main.py
+    ```
 
+4. Wait for about 5 seconds until the OkayPlan and ColorDynamic are ready
+
+5. Use **2D Nav Goal** in Rviz to set the navigation goal.
+
+6. Moving!
+
+7. You can use the other script to shutdown them rapidly.
+
+    ```bash
+    cd ~/ros_motion_planning/scripts/
+    ./killpro.sh
+    ```
 
 
 
