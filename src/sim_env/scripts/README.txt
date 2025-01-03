@@ -8,7 +8,7 @@ OkayPlan_ColorDynamic:
 	/Evaluate: 对OPCD导航架构进行评估
 
 OkayPlan_Color: 
-	用OkayPlan作为全局规划，用ColorDynamic做为局部规划
+	用OkayPlan作为全局规划，用Color做为局部规划
 	/Evaluate: 对OPC导航架构进行评估
 
 
