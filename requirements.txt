@@ -5,12 +5,14 @@
 
 
 # Planner related -----------
-torch>=2.3.1 
-torchaudio>=2.3.1 
-torchvision>=0.18.1
+torch>=2.2.0
+torchaudio>=2.2.0
+torchvision>=0.17.0
 matplotlib>=3.7.5
 numpy>=1.24.4
 defusedxml>=0.7.1
+scipy>=1.10.1
+pygame>=2.5.2
 conan==1.59.0
 
 
