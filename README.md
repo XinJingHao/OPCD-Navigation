@@ -37,7 +37,15 @@ This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai
     pip3 install -r requirements.txt
     ```
 
-8. Install ROS packages:
+    If you are in China, you can use the following command to speed up installation:
+   ```bash
+   cd ~/ros_motion_planning
+   conda activate opcd
+   pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+   ```
+   
+
+9. Install ROS packages:
     ```bash
     sudo apt update
     ```
@@ -64,12 +72,13 @@ This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai
     libgoogle-glog-dev
     ```
 
-9. Compile the code:
+10. Compile the code:
    
    **NOTE: Please refer to [#48](https://github.com/ai-winter/ros_motion_planning/issues/48) if you meet libignition dependency error.**
 
     ```bash
     cd ~/ros_motion_planning/scripts/
+    conda activate opcd
     ./build.sh  # you may need to install catkin-tools using: sudo apt install python-catkin-tools
     ```
 
