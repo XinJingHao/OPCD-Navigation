@@ -1,0 +1,8 @@
+<map id="rmp::path_planner::PSOPathPlanner::optimizeParticle" name="rmp::path_planner::PSOPathPlanner::optimizeParticle">
+<area shape="rect" id="node1" title="Particle update optimization iteration." alt="" coords="5,93,245,134"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#a4090ccb301d5715fdb0b75b77563ee2d" title="Calculate the value of fitness function." alt="" coords="308,5,507,61"/>
+<area shape="rect" id="node4" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#af617812197bb8cc06a741a8cb1789d43" title="A function to update the particle position." alt="" coords="293,85,521,141"/>
+<area shape="rect" id="node6" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#a0eab3d2962fd97979685c6ea57192103" title="A function to update the particle velocity." alt="" coords="293,165,521,221"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="569,13,747,54"/>
+<area shape="rect" id="node5" href="$namespacermp_1_1common_1_1math.html#a4f81da967a5afadd3bf33c2d57135741" title="Clamp a value between two bounds. If the value goes beyond the bounds, return one of the bounds,..." alt="" coords="577,133,739,174"/>
+</map>

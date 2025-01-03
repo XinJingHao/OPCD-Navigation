@@ -1,0 +1,14 @@
+<map id="src/core/controller/lqr_controller/src/lqr_controller.cpp" name="src/core/controller/lqr_controller/src/lqr_controller.cpp">
+<area shape="rect" id="node1" title=": Contains the linear quadratic regulator (LQR) local controller class" alt="" coords="102,5,241,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,109,148,151"/>
+<area shape="rect" id="node3" href="$lqr__controller_8h.html" title=": Contains the linear quadratic regulator (LQR) local controller class" alt="" coords="173,117,359,143"/>
+<area shape="rect" id="node4" title=" " alt="" coords="10,281,245,307"/>
+<area shape="rect" id="node5" title=" " alt="" coords="165,199,249,225"/>
+<area shape="rect" id="node6" title=" " alt="" coords="273,199,376,225"/>
+<area shape="rect" id="node7" href="$controller_8h.html" title=": Contains the abstract Controller class" alt="" coords="401,199,563,225"/>
+<area shape="rect" id="node8" title=" " alt="" coords="269,281,348,307"/>
+<area shape="rect" id="node9" title=" " alt="" coords="373,273,527,315"/>
+<area shape="rect" id="node10" title=" " alt="" coords="551,273,727,315"/>
+<area shape="rect" id="node11" title=" " alt="" coords="751,281,885,307"/>
+<area shape="rect" id="node12" title=" " alt="" coords="909,281,1141,307"/>
+</map>

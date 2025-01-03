@@ -1,0 +1,5 @@
+<map id="rmp::path_planner::HybridAStarPathPlanner::HybridNode::operator+" name="rmp::path_planner::HybridAStarPathPlanner::HybridNode::operator+">
+<area shape="rect" id="node1" title="Overloading operator + for Node class." alt="" coords="5,31,187,87"/>
+<area shape="rect" id="node2" href="$namespacermp_1_1common_1_1math.html#a7363e931a20fcd596132d2a9ce9d85dc" title="Perform modulus operation on 2π." alt="" coords="243,5,405,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9a2fafd5790b9451b633f6eed96efe6f" title=" " alt="" coords="235,71,413,112"/>
+</map>

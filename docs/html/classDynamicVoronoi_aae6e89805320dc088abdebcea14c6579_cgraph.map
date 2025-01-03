@@ -1,0 +1,9 @@
+<map id="DynamicVoronoi::updateAlternativePrunedDiagram" name="DynamicVoronoi::updateAlternativePrunedDiagram">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,260,197"/>
+<area shape="rect" id="node2" href="$classBucketPrioQueue.html#a4140b9e2e9c7922bcc83d0686c33478f" title="Checks whether the Queue is empty." alt="" coords="337,5,519,32"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#ad82379b4bc7d38104db8359cfcb31589" title="retrieve the number of neighbors that are Voronoi nodes (4&#45;connected)" alt="" coords="308,57,548,98"/>
+<area shape="rect" id="node4" href="$classDynamicVoronoi.html#a6348450b66aa2632d010d3a6069f28d5" title=" " alt="" coords="329,122,527,163"/>
+<area shape="rect" id="node5" href="$classDynamicVoronoi.html#a14057272ce96e57d3f0e1a4360a243e4" title=" " alt="" coords="316,187,540,229"/>
+<area shape="rect" id="node6" href="$classBucketPrioQueue.html#a8ec0200b749df22b8755b333ec2abe09" title="return and pop the element with the lowest squared distance *‍/" alt="" coords="345,253,511,280"/>
+<area shape="rect" id="node7" href="$classBucketPrioQueue.html#ab7d8a883f955569d0ead5dc56ec3d3fa" title="push an element" alt="" coords="342,304,514,331"/>
+</map>

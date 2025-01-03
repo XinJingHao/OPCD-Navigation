@@ -1,0 +1,10 @@
+<map id="rmp::path_planner::SThetaStarPathPlanner::_updateVertex" name="rmp::path_planner::SThetaStarPathPlanner::_updateVertex">
+<area shape="rect" id="node1" title="update the g value of child node" alt="" coords="5,194,176,250"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1structure_1_1Node.html#ac02ec547b8e7a6df02b0101df874d608" title=" " alt="" coords="224,5,403,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="225,71,402,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html#ad448a4c7fdeeabcb1d3900b072ec082a" title=" " alt="" coords="224,136,403,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9a2fafd5790b9451b633f6eed96efe6f" title=" " alt="" coords="224,201,403,243"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1Node.html#a1d3b739b40d6812b73ef876387eb12f7" title=" " alt="" coords="224,267,403,308"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="224,332,403,373"/>
+<area shape="rect" id="node8" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="224,397,403,439"/>
+</map>

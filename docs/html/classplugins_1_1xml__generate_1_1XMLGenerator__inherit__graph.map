@@ -1,0 +1,8 @@
+<map id="plugins.xml_generate.XMLGenerator" name="plugins.xml_generate.XMLGenerator">
+<area shape="rect" id="node1" title=" " alt="" coords="325,131,585,281"/>
+<area shape="rect" id="node3" href="$classplugins_1_1maps__generate_1_1MapsGenerator.html" title=" " alt="" coords="5,351,219,473"/>
+<area shape="rect" id="node4" href="$classplugins_1_1obstacles__generate_1_1ObstacleGenerator.html" title=" " alt="" coords="243,329,447,495"/>
+<area shape="rect" id="node5" href="$classplugins_1_1pedestrians__generate_1_1PedGenerator.html" title=" " alt="" coords="472,344,659,480"/>
+<area shape="rect" id="node6" href="$classplugins_1_1robot__generate_1_1RobotGenerator.html" title=" " alt="" coords="683,344,898,480"/>
+<area shape="rect" id="node2" title=" " alt="" coords="430,5,479,83"/>
+</map>

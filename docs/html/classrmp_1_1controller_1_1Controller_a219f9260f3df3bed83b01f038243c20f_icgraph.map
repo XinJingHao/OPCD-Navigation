@@ -1,0 +1,5 @@
+<map id="rmp::controller::Controller::worldToMap" name="rmp::controller::Controller::worldToMap">
+<area shape="rect" id="node1" title="Tranform from world map(x, y) to costmap(x, y)" alt="" coords="531,5,721,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1APFController.html#acc55fc341c4fe14f8a449f1a76ec5f47" title="Get the repulsive force of APF." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1APFController.html#a2e08c45d50f87ec6dc5f6db7e4724071" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RVO::KdTree::buildObstacleTreeRecursive" name="RVO::KdTree::buildObstacleTreeRecursive">
+<area shape="rect" id="node1" title="Recursive function to build an obstacle k&#45;D tree." alt="" coords="5,23,204,65"/>
+<area shape="rect" id="node2" href="$namespaceRVO.html#a4589b9a7089f148aedefcd64a6000c39" title=" " alt="" coords="395,31,473,57"/>
+<area shape="rect" id="node5" href="$namespaceRVO.html#aa678d9e285071e3022b20f7f114de963" title="Computes the signed distance from a line connecting th specified points to a specified point." alt="" coords="252,56,347,83"/>
+<area shape="rect" id="node3" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="521,5,645,32"/>
+<area shape="rect" id="node4" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="521,56,645,83"/>
+</map>

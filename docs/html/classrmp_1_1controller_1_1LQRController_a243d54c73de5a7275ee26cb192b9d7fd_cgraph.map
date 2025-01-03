@@ -1,0 +1,5 @@
+<map id="rmp::controller::LQRController::_lqrControl" name="rmp::controller::LQRController::_lqrControl">
+<area shape="rect" id="node1" title="Execute LQR control process." alt="" coords="5,27,221,69"/>
+<area shape="rect" id="node2" href="$namespacermp_1_1common_1_1math.html#a818ab822ace300a9f8770d3b21f9820a" title=" " alt="" coords="271,5,458,32"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1Controller.html#abbf73344b0061abf0765e9c0b84ec6b6" title="Regularize angle to [&#45;pi, pi]." alt="" coords="269,57,460,98"/>
+</map>

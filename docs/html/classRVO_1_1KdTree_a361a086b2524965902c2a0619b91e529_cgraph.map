@@ -1,0 +1,9 @@
+<map id="RVO::KdTree::queryVisibility" name="RVO::KdTree::queryVisibility">
+<area shape="rect" id="node1" title="Queries the visibility between two points within a specified radius." alt="" coords="5,31,209,57"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree.html#a8e71d4edca157b39c901a6bdbef96054" title="Recursive function to query the visibility between two points within a specified radius." alt="" coords="257,23,461,65"/>
+<area shape="rect" id="node3" href="$namespaceRVO.html#a369109da191e48a37856833836656ee8" title=" " alt="" coords="509,5,607,32"/>
+<area shape="rect" id="node4" href="$namespaceRVO.html#aa678d9e285071e3022b20f7f114de963" title="Computes the signed distance from a line connecting th specified points to a specified point." alt="" coords="511,56,605,83"/>
+<area shape="rect" id="node5" href="$namespaceRVO.html#a4589b9a7089f148aedefcd64a6000c39" title=" " alt="" coords="655,56,733,83"/>
+<area shape="rect" id="node6" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="781,31,905,57"/>
+<area shape="rect" id="node7" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="781,81,905,108"/>
+</map>

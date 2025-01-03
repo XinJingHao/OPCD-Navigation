@@ -1,0 +1,10 @@
+<map id="RVO::RVOSimulator::queryVisibility" name="RVO::RVOSimulator::queryVisibility">
+<area shape="rect" id="node1" title="Performs a visibility query between the two specified points with respect to the obstacles." alt="" coords="5,23,163,65"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree.html#a361a086b2524965902c2a0619b91e529" title="Queries the visibility between two points within a specified radius." alt="" coords="211,31,415,57"/>
+<area shape="rect" id="node3" href="$classRVO_1_1KdTree.html#a8e71d4edca157b39c901a6bdbef96054" title="Recursive function to query the visibility between two points within a specified radius." alt="" coords="463,23,667,65"/>
+<area shape="rect" id="node4" href="$namespaceRVO.html#a369109da191e48a37856833836656ee8" title=" " alt="" coords="715,5,812,32"/>
+<area shape="rect" id="node5" href="$namespaceRVO.html#aa678d9e285071e3022b20f7f114de963" title="Computes the signed distance from a line connecting th specified points to a specified point." alt="" coords="716,56,811,83"/>
+<area shape="rect" id="node6" href="$namespaceRVO.html#a4589b9a7089f148aedefcd64a6000c39" title=" " alt="" coords="860,56,939,83"/>
+<area shape="rect" id="node7" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="987,31,1111,57"/>
+<area shape="rect" id="node8" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="987,81,1111,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RVO::KdTree::buildObstacleTree" name="RVO::KdTree::buildObstacleTree">
+<area shape="rect" id="node1" title="Builds an obstacle k&#45;D tree." alt="" coords="5,60,232,87"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree.html#a51474fc2b7bab85353953695ec6247ab" title="Recursive function to build an obstacle k&#45;D tree." alt="" coords="298,23,497,65"/>
+<area shape="rect" id="node7" href="$classRVO_1_1KdTree.html#a044c3084407a383683342a982f91618d" title="Deletes the specified obstacle tree node." alt="" coords="280,89,515,116"/>
+<area shape="rect" id="node3" href="$namespaceRVO.html#a4589b9a7089f148aedefcd64a6000c39" title=" " alt="" coords="705,31,784,57"/>
+<area shape="rect" id="node6" href="$namespaceRVO.html#aa678d9e285071e3022b20f7f114de963" title="Computes the signed distance from a line connecting th specified points to a specified point." alt="" coords="563,56,657,83"/>
+<area shape="rect" id="node4" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="832,5,956,32"/>
+<area shape="rect" id="node5" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="832,56,956,83"/>
+</map>

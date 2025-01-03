@@ -1,0 +1,9 @@
+<map id="rmp::common::structure::KDTree::_distance" name="rmp::common::structure::KDTree::_distance">
+<area shape="rect" id="node1" title="Calculate the distance between kd node p and q." alt="" coords="519,71,697,112"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a4f1e60bd6af57eb8f9d786bbbcfea217" title="Searches k&#45;nearest neighbors recursively." alt="" coords="240,5,463,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#acc08c4bd96ab9c8c8a4319e7052eadd4" title="Searches the nearest neighbor recursively." alt="" coords="244,71,459,112"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a3f24cffd9abed0ba25d2759ad54efef8" title="Searches neighbors within radius." alt="" coords="232,136,471,177"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a4909d87ad86704b06f6397e77056f812" title="Searches k&#45;nearest neighbors." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a5323396a0ab7892d75d676355d6271e0" title="Searches the nearest neighbor." alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#ad70da229623c8542667016c5ba4b546d" title="Searches neighbors within radius." alt="" coords="5,136,184,177"/>
+</map>

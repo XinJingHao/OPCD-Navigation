@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xjh/ros_motion_planning/devel/setup.sh

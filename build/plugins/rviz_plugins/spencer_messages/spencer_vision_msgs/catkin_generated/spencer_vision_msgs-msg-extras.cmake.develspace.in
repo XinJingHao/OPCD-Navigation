@@ -1,0 +1,2 @@
+set(spencer_vision_msgs_MESSAGE_FILES "/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_messages/spencer_vision_msgs/msg/PersonImage.msg;/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_messages/spencer_vision_msgs/msg/PersonImages.msg;/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_messages/spencer_vision_msgs/msg/PersonROI.msg;/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_messages/spencer_vision_msgs/msg/PersonROIs.msg")
+set(spencer_vision_msgs_SERVICE_FILES "")

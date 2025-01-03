@@ -1,0 +1,4 @@
+<map id="rmp::controller::MPCController::_mpcControl" name="rmp::controller::MPCController::_mpcControl">
+<area shape="rect" id="node1" title="Execute MPC control process." alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1Controller.html#abbf73344b0061abf0765e9c0b84ec6b6" title="Regularize angle to [&#45;pi, pi]." alt="" coords="272,5,463,47"/>
+</map>

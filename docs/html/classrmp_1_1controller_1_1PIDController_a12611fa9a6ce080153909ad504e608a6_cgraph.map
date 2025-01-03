@@ -1,0 +1,15 @@
+<map id="rmp::controller::PIDController::computeVelocityCommands" name="rmp::controller::PIDController::computeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,300,220,341"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1PIDController.html#a9b7a07bb84bf73c7de1241f81f0640af" title="Execute PID control process (no model pid)" alt="" coords="268,5,480,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1Controller.html#a70032e281a2c432edc08639dd89041e2" title="angular velocity regularization" alt="" coords="279,71,469,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1Controller.html#ad1017c867f1472b6737c14f8752ba122" title="Calculate the look&#45;ahead distance with current speed dynamically." alt="" coords="279,136,469,177"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1Controller.html#a5e69a84d5053dcff2ab3954850afb21b" title="find the point on the path that is exactly the lookahead distance away from the robot" alt="" coords="279,201,469,243"/>
+<area shape="rect" id="node8" href="$classrmp_1_1controller_1_1Controller.html#a7571bb065fdde2c4987f4fbdd1a0ff75" title="linear velocity regularization" alt="" coords="279,267,469,308"/>
+<area shape="rect" id="node9" href="$classrmp_1_1controller_1_1Controller.html#a4f55f7527bf0d65beaa380a452e28530" title="Prune the path, removing the waypoints that the robot has already passed and distant waypoints." alt="" coords="279,332,469,373"/>
+<area shape="rect" id="node10" href="$classrmp_1_1controller_1_1Controller.html#abbf73344b0061abf0765e9c0b84ec6b6" title="Regularize angle to [&#45;pi, pi]." alt="" coords="279,397,469,439"/>
+<area shape="rect" id="node11" href="$classrmp_1_1controller_1_1Controller.html#a42636847a224d763b531eda7c7b94035" title="Whether to reach the target pose through rotation operation." alt="" coords="279,463,469,504"/>
+<area shape="rect" id="node12" href="$classrmp_1_1controller_1_1Controller.html#ae78ef12b03eb3ea28d5cb50ef09dcfe1" title="Whether to correct the tracking path with rotation operation." alt="" coords="279,528,469,569"/>
+<area shape="rect" id="node13" href="$classrmp_1_1controller_1_1Controller.html#a44440d4909225a23e13b9145ae5b09cf" title="Tranform from in_pose to out_pose with out frame using tf." alt="" coords="279,593,469,635"/>
+<area shape="rect" id="node5" href="$namespacermp_1_1common_1_1math.html#a4f81da967a5afadd3bf33c2d57135741" title="Clamp a value between two bounds. If the value goes beyond the bounds, return one of the bounds,..." alt="" coords="543,136,705,177"/>
+<area shape="rect" id="node7" href="$namespacermp_1_1common_1_1math.html#aa39efcb963f32dd4bf516931e59355b9" title="Formula for intersection of a line with a circle centered at the origin." alt="" coords="528,201,720,243"/>
+</map>

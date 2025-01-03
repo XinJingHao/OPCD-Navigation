@@ -1,0 +1,8 @@
+<map id="rmp::common::geometry::ReedsSheppCurve::CCCC" name="rmp::common::geometry::ReedsSheppCurve::CCCC">
+<area shape="rect" id="node1" title="# 8 Circle&#45;Circle(beta)&#45;Circle(beta)&#45;Circle generation mode (using reflect, timeflip and backwards)." alt="" coords="5,39,197,80"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1ReedsSheppCurve.html#a8033bc3596f5e46f926e56ed48d216e1" title="Left&#45;Right(beta)&#45;Left(beta)&#45;Right generation mode. (L+R+L&#45;R&#45;)" alt="" coords="245,5,441,47"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1geometry_1_1ReedsSheppCurve.html#a4c77b1489c00bb65c623adc6632cf164" title="Left&#45;Right(beta)&#45;Left(beta)&#45;Right generation mode. (L+R&#45;L&#45;R+)" alt="" coords="245,71,441,112"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1ReedsSheppCurve.html#a09ad4006b6cb825993353afb4de874e1" title=" " alt="" coords="489,39,740,80"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1geometry_1_1ReedsSheppCurve.html#a4dab556980f9cff8388a9ea9a48aaa33" title="Truncate the angle to the interval of &#45;π to π." alt="" coords="788,39,972,80"/>
+<area shape="rect" id="node5" href="$namespacermp_1_1common_1_1math.html#a5a09ba682bf2c3f93842a581c82251fc" title="Truncate the angle to the interval of &#45;π to π." alt="" coords="1020,39,1183,80"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="src/core/common/src/geometry/dubins_curve.cpp" name="src/core/common/src/geometry/dubins_curve.cpp">
+<area shape="rect" id="node1" title=": Dubins curve generation" alt="" coords="204,5,411,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,108,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="133,102,199,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="223,102,293,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="317,102,397,129"/>
+<area shape="rect" id="node6" href="$math__helper_8h.html" title=": math helper function" alt="" coords="327,259,541,285"/>
+<area shape="rect" id="node12" href="$dubins__curve_8h.html" title=": Dubins curve generation" alt="" coords="473,95,667,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="493,408,556,435"/>
+<area shape="rect" id="node8" title=" " alt="" coords="202,333,261,360"/>
+<area shape="rect" id="node9" title=" " alt="" coords="563,333,625,360"/>
+<area shape="rect" id="node10" href="$vec2d_8h.html" title="Defines the Vec2d class." alt="" coords="285,333,487,360"/>
+<area shape="rect" id="node11" title=" " alt="" coords="357,408,415,435"/>
+<area shape="rect" id="node13" title=" " alt="" coords="693,184,780,211"/>
+<area shape="rect" id="node14" href="$curve_8h.html" title=": Curve generation" alt="" coords="471,184,669,211"/>
+<area shape="rect" id="node15" href="$core_2common_2include_2common_2geometry_2point_8h.html" title=" " alt="" coords="566,259,761,285"/>
+<area shape="rect" id="node16" href="$log_8h.html" title=" " alt="" coords="701,333,841,360"/>
+<area shape="rect" id="node17" title=" " alt="" coords="647,408,762,435"/>
+<area shape="rect" id="node18" title=" " alt="" coords="787,408,932,435"/>
+</map>

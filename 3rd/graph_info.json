@@ -1,0 +1,18 @@
+{
+ "options": [
+  [
+   "osqp:fPIC",
+   "True"
+  ],
+  [
+   "osqp:shared",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

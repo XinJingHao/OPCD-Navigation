@@ -1,0 +1,7 @@
+<map id="rmp::path_planner::LPAStarPathPlanner" name="rmp::path_planner::LPAStarPathPlanner">
+<area shape="rect" id="node1" title="Class for objects that plan using the LPA* algorithm." alt="" coords="47,1380,233,1721"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PathPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,932,232,1244"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1LPAStarPathPlanner_1_1LNode.html" title=" " alt="" coords="257,983,455,1193"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html" title=" " alt="" coords="294,483,418,883"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html" title="Basic Node class." alt="" coords="267,5,445,420"/>
+</map>

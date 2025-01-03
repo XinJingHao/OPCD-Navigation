@@ -1,0 +1,4 @@
+<map id="rmp::common::geometry::BSplineCurve::generation" name="rmp::common::geometry::BSplineCurve::generation">
+<area shape="rect" id="node1" title="Generate the path." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a0a1b275c3aa36c91692f217508fb887b" title="Calculate base function using Cox&#45;deBoor function." alt="" coords="248,5,459,47"/>
+</map>

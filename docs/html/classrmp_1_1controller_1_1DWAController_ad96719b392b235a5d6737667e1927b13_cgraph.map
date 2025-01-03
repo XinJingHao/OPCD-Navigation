@@ -1,0 +1,5 @@
+<map id="rmp::controller::DWAController::initialize" name="rmp::controller::DWAController::initialize">
+<area shape="rect" id="node1" title="Constructs the ros wrapper." alt="" coords="5,39,228,80"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1DWAController.html#a795e8e0bc2ae02373a9c733ec01988b5" title=" " alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1DWAController.html#a43828f5f50e3b63348ff312f8b780d88" title="Callback to update the local planner&#39;s parameters based on dynamic reconfigure." alt="" coords="276,71,499,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rmp::path_planner::InformedRRTStarPathPlanner" name="rmp::path_planner::InformedRRTStarPathPlanner">
+<area shape="rect" id="node1" title="Class for objects that plan using the RRT* algorithm." alt="" coords="11,807,247,957"/>
+<area shape="rect" id="node5" href="$classrmp_1_1path__planner_1_1QuickInformedRRTStarPathPlanner.html" title="Class for objects that plan using the Informed RRT* algorithm." alt="" coords="5,1005,253,1215"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1RRTStarPathPlanner.html" title="Class for objects that plan using the RRT* algorithm." alt="" coords="41,637,218,759"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1RRTPathPlanner.html" title="Class for objects that plan using the RRT algorithm." alt="" coords="29,365,229,589"/>
+<area shape="rect" id="node4" href="$classrmp_1_1path__planner_1_1PathPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="16,5,243,317"/>
+</map>

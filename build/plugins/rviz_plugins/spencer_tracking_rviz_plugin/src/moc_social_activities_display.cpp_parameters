@@ -1,0 +1,14 @@
+-I/home/xjh/ros_motion_planning/devel/include
+-I/opt/ros/noetic/include
+-I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include/eigen3
+-I/usr/include/OGRE/Overlay
+-I/usr/include/OGRE
+-I/usr/include
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="spencer_tracking_rviz_plugin"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/xjh/ros_motion_planning/build/plugins/rviz_plugins/spencer_tracking_rviz_plugin/src/moc_social_activities_display.cpp
+/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_tracking_rviz_plugin/src/social_activities_display.h

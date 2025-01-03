@@ -1,0 +1,4 @@
+<map id="rmp::controller::Controller::getLookAheadPoint" name="rmp::controller::Controller::getLookAheadPoint">
+<area shape="rect" id="node1" title="find the point on the path that is exactly the lookahead distance away from the robot" alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$namespacermp_1_1common_1_1math.html#aa39efcb963f32dd4bf516931e59355b9" title="Formula for intersection of a line with a circle centered at the origin." alt="" coords="244,5,436,47"/>
+</map>

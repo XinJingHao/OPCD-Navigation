@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/install
+
+Name: gazebo_ped_visualizer_plugin
+Description: Description of gazebo_ped_visualizer_plugin
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lPedestrianVisualPlugin
+Requires: gazebo_ros roscpp

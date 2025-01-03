@@ -1,0 +1,170 @@
+<!--
+******************************************************************************************
+*  Copyright (c) 2024 Jinghao Xin, All Rights Reserved                                   
+*                                                                                        
+*  @brief    Launch Dynamic Obstacles(Layer2; other robot) in Gazebo                 
+*  @author   Jinghao Xin                                                                 
+*  @version  0.0.1                                                                       
+*  @date     2024.12.21                                                                  
+*  @license  GNU General Public License (GPL)      
+****************************************************************************************** 
+-->
+
+<launch>
+  <!-- ================================= ↓↓↓ Layer2: Know Dynamic Obstacles ↓↓↓ ================================= -->
+  <group>
+    <arg name="idx" default="0" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="4" />
+        <arg name="y" value="4" />
+        <arg name="rotate_z" value="-1.57" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+
+  <group>
+    <arg name="idx" default="1" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="4" />
+        <arg name="y" value="-4" />
+        <arg name="rotate_z" value="1.57" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+
+
+  <group>
+    <arg name="idx" default="2" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="-4" />
+        <arg name="y" value="4" />
+        <arg name="rotate_z" value="0" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+
+  <group>
+    <arg name="idx" default="3" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="-4" />
+        <arg name="y" value="-4" />
+        <arg name="rotate_z" value="-3.14" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+
+  <group>
+    <arg name="idx" default="4" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="0" />
+        <arg name="y" value="9" />
+        <arg name="rotate_z" value="-1.57" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+
+  <group>
+    <arg name="idx" default="5" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="0" />
+        <arg name="y" value="-9" />
+        <arg name="rotate_z" value="1.57" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+
+
+  <group>
+    <arg name="idx" default="6" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="9" />
+        <arg name="y" value="0" />
+        <arg name="rotate_z" value="0" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+
+  <group>
+    <arg name="idx" default="7" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="-9" />
+        <arg name="y" value="0" />
+        <arg name="rotate_z" value="-3.14" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+  <group>
+    <arg name="idx" default="8" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="8" />
+        <arg name="y" value="8" />
+        <arg name="rotate_z" value="3.14" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+  <group>
+    <arg name="idx" default="9" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="-8" />
+        <arg name="y" value="8" />
+        <arg name="rotate_z" value="-3.14" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+  <group>
+    <arg name="idx" default="10" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="8" />
+        <arg name="y" value="-8" />
+        <arg name="rotate_z" value="1.57" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+  <group>
+    <arg name="idx" default="11" />
+    <include file="$(find sim_env)/launch/include/robots/spawn_a_Layer2_robot.launch">
+        <arg name="namespace" value="Layer2_$(arg idx)" />
+        <arg name="x" value="-8" />
+        <arg name="y" value="-8" />
+        <arg name="rotate_z" value="-1.57" />
+    </include>
+    <node pkg="sim_env" type="Layer2_RandomPlanner_RGBD.py" name="Layer2_$(arg idx)_RandomPlanner" args="$(arg idx)" output="log"/>
+    <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_Layer2_$(arg idx)" args="Layer2_$(arg idx) /base_footprint" output="log"/>
+  </group>
+
+  <!-- ================================= ↑↑↑ Layer2: Know Dynamic Obstacles ↑↑↑ ================================= -->
+
+</launch>

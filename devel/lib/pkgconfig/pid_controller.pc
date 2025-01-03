@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/devel
+
+Name: pid_controller
+Description: Description of pid_controller
+Version: 1.0.0
+Cflags: -I/home/xjh/ros_motion_planning/src/core/controller/pid_controller/include
+Libs: -L${prefix}/lib 
+Requires: controller

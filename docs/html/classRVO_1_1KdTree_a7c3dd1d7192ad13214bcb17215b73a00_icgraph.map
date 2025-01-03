@@ -1,0 +1,4 @@
+<map id="RVO::KdTree::buildObstacleTree" name="RVO::KdTree::buildObstacleTree">
+<area shape="rect" id="node1" title="Builds an obstacle k&#45;D tree." alt="" coords="211,13,437,39"/>
+<area shape="rect" id="node2" href="$classRVO_1_1RVOSimulator.html#a58569ddc2f92f575471031f0a8e4951c" title="Processes the obstacles that have been added so that they are accounted for in the simulation." alt="" coords="5,5,163,47"/>
+</map>

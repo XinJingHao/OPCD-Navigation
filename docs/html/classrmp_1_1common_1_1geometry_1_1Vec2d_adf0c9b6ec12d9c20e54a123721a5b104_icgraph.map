@@ -1,0 +1,11 @@
+<map id="rmp::common::geometry::Vec2d::x" name="rmp::common::geometry::Vec2d::x">
+<area shape="rect" id="node1" title="Getter for x component." alt="" coords="237,235,421,276"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a47c44a47c6fdfcd6b5f1c1ff691c04f7" title="Returns the &quot;cross&quot; product between these two Vec2d (non&#45;standard)." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#abecc055fdb8a83e5bce8e43d65c06dfb" title="Returns the inner product between these two Vec2d." alt="" coords="5,71,189,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a1d9c65a4988618deb0ce279044bf0d79" title="Sums two Vec2d." alt="" coords="5,136,189,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#aa67e2b19331a0a6e353c5dbc1deb64a9" title="Sums another Vec2d to the current one." alt="" coords="5,201,189,243"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#ace5dc92f1b3bbd5340284dca6810b0e7" title="Subtracts two Vec2d." alt="" coords="5,267,189,308"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a8913e2684aabf170e9380bddf5e6c778" title="Subtracts another Vec2d to the current one." alt="" coords="5,332,189,373"/>
+<area shape="rect" id="node8" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a146a7117a7c2e4db69e34bd997ed2274" title="Compares two Vec2d." alt="" coords="5,397,189,439"/>
+<area shape="rect" id="node9" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a9cf39f08baf8633dcf38a566aaf0dd18" title="Setter for x component." alt="" coords="5,463,189,504"/>
+</map>

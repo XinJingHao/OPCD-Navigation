@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/install
+
+Name: path_planner
+Description: Description of path_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: voronoi_layer common

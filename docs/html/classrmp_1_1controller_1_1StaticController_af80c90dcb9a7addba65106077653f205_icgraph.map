@@ -1,0 +1,4 @@
+<map id="rmp::controller::StaticController::initialize" name="rmp::controller::StaticController::initialize">
+<area shape="rect" id="node1" title="Initialization of the local planner." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1StaticController.html#ad28af739282954510719478feaa8bdff" title="Construct a new StaticController object." alt="" coords="5,5,232,47"/>
+</map>

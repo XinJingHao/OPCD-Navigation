@@ -1,0 +1,4 @@
+<map id="RVO::Obstacle" name="RVO::Obstacle">
+<area shape="rect" id="node1" title="Defines static obstacles in the simulation." alt="" coords="10,395,125,531"/>
+<area shape="rect" id="node2" href="$classRVO_1_1Vector2.html" title="Defines a two&#45;dimensional vector." alt="" coords="5,5,129,317"/>
+</map>

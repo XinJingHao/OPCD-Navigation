@@ -1,0 +1,2 @@
+仅用于将fml_robot与move_base结合，测试在不同planner下的性能。
+不用于ColorDynamic。

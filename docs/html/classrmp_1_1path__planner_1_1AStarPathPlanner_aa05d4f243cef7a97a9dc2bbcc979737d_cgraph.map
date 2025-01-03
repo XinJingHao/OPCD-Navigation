@@ -1,0 +1,10 @@
+<map id="rmp::path_planner::AStarPathPlanner::plan" name="rmp::path_planner::AStarPathPlanner::plan">
+<area shape="rect" id="node1" title="A* implementation." alt="" coords="5,169,176,211"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="227,5,405,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1Node.html#a82b7807efcf6131950d9396e4cd5f0f5" title=" " alt="" coords="227,71,405,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="227,136,405,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#ae3dc1d2e3c05ed4153cef390a29b66e2" title=" " alt="" coords="224,201,408,243"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="227,267,405,308"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a016742e51916837f5a107afcd1a9568c" title=" " alt="" coords="224,332,408,373"/>
+<area shape="rect" id="node8" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#aaad3d454aa263b29691cb58d353954ad" title=" " alt="" coords="456,332,640,373"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gazebo::PedestrianVisualPlugin::OnUpdate" name="gazebo::PedestrianVisualPlugin::OnUpdate">
+<area shape="rect" id="node1" title="Function that is called every update cycle." alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node2" href="$classgazebo_1_1PedestrianVisualPlugin.html#a72e65b43fc4bff6513cea2fad9e37eef" title="Load the actor plugin." alt="" coords="5,5,192,47"/>
+</map>

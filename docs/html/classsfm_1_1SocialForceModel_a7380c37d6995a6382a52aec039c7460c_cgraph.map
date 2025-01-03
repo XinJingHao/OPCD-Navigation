@@ -1,0 +1,9 @@
+<map id="sfm::SocialForceModel::computeObstacleForce" name="sfm::SocialForceModel::computeObstacleForce">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$classsfm_1_1Map.html#a84ea662265a598dfd926769a337a29af" title=" " alt="" coords="232,5,452,32"/>
+<area shape="rect" id="node3" href="$classutils_1_1Vector2d.html#aafe5160a95cbd9cd6b8e9f194df6bd50" title=" " alt="" coords="737,81,896,108"/>
+<area shape="rect" id="node5" href="$classutils_1_1Vector2d.html#a7caae672fa91e1cde138699ac6a172fc" title=" " alt="" coords="243,107,441,133"/>
+<area shape="rect" id="node7" href="$classutils_1_1Vector2d.html#ae59a6b71988f400237537d86d4305e38" title=" " alt="" coords="270,157,414,184"/>
+<area shape="rect" id="node4" href="$classutils_1_1Vector2d.html#ab46dc17a022771a2d97616013b3e9946" title=" " alt="" coords="944,81,1156,108"/>
+<area shape="rect" id="node6" href="$classutils_1_1Vector2d.html#a8c589ecf8a750a7a1bcec6aebf891120" title=" " alt="" coords="500,107,689,133"/>
+</map>

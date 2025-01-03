@@ -1,0 +1,10 @@
+<map id="RVO::RVOSimulator::processObstacles" name="RVO::RVOSimulator::processObstacles">
+<area shape="rect" id="node1" title="Processes the obstacles that have been added so that they are accounted for in the simulation." alt="" coords="5,53,163,94"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree.html#a7c3dd1d7192ad13214bcb17215b73a00" title="Builds an obstacle k&#45;D tree." alt="" coords="211,60,437,87"/>
+<area shape="rect" id="node3" href="$classRVO_1_1KdTree.html#a51474fc2b7bab85353953695ec6247ab" title="Recursive function to build an obstacle k&#45;D tree." alt="" coords="503,23,702,65"/>
+<area shape="rect" id="node8" href="$classRVO_1_1KdTree.html#a044c3084407a383683342a982f91618d" title="Deletes the specified obstacle tree node." alt="" coords="485,89,720,116"/>
+<area shape="rect" id="node4" href="$namespaceRVO.html#a4589b9a7089f148aedefcd64a6000c39" title=" " alt="" coords="911,31,989,57"/>
+<area shape="rect" id="node7" href="$namespaceRVO.html#aa678d9e285071e3022b20f7f114de963" title="Computes the signed distance from a line connecting th specified points to a specified point." alt="" coords="768,56,863,83"/>
+<area shape="rect" id="node5" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="1037,5,1161,32"/>
+<area shape="rect" id="node6" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="1037,56,1161,83"/>
+</map>

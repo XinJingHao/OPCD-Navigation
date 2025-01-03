@@ -1,0 +1,9 @@
+<map id="gazebo::PedestrianSFMPlugin" name="gazebo::PedestrianSFMPlugin">
+<area shape="rect" id="node1" title=" " alt="" coords="157,1569,372,2131"/>
+<area shape="rect" id="node2" title=" " alt="" coords="192,1327,295,1404"/>
+<area shape="rect" id="node3" href="$structsfm_1_1Agent.html" title=" " alt="" coords="319,1224,458,1507"/>
+<area shape="rect" id="node4" href="$structsfm_1_1Forces.html" title=" " alt="" coords="204,923,301,1000"/>
+<area shape="rect" id="node5" href="$classutils_1_1Vector2d.html" title=" " alt="" coords="31,5,197,581"/>
+<area shape="rect" id="node6" href="$structsfm_1_1Parameters.html" title=" " alt="" coords="326,842,545,1081"/>
+<area shape="rect" id="node7" href="$classutils_1_1Angle.html" title=" " alt="" coords="569,761,694,1161"/>
+</map>

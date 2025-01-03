@@ -1,0 +1,7 @@
+<map id="rmp::controller::Controller::prune" name="rmp::controller::Controller::prune">
+<area shape="rect" id="node1" title="Prune the path, removing the waypoints that the robot has already passed and distant waypoints." alt="" coords="272,104,463,145"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1RPPController.html#a3f1b3b0402f0d773a1df7f0d1ed6dfec" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="7,5,222,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1MPCController.html#a267d55c75fe3983794d0cfda1f0c6c87" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,71,224,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1LQRController.html#a2b25fa968a8ac2a1ada5c8a13513ac27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="7,136,223,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1PIDController.html#a12611fa9a6ce080153909ad504e608a6" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="7,201,222,243"/>
+</map>

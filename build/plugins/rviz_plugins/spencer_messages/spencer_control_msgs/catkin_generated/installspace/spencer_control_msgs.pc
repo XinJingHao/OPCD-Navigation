@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/install
+
+Name: spencer_control_msgs
+Description: Description of spencer_control_msgs
+Version: 1.0.8
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

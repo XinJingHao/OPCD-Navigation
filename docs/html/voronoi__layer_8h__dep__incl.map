@@ -1,0 +1,7 @@
+<map id="src/plugins/map_plugins/voronoi_layer/include/voronoi_layer.h" name="src/plugins/map_plugins/voronoi_layer/include/voronoi_layer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="242,5,421,61"/>
+<area shape="rect" id="node2" href="$voronoi__planner_8h.html" title=": Contains the Voronoi&#45;based planner class" alt="" coords="115,109,323,180"/>
+<area shape="rect" id="node5" href="$voronoi__layer_8cpp.html" title=" " alt="" coords="348,117,539,173"/>
+<area shape="rect" id="node3" href="$voronoi__planner_8cpp.html" title=": Contains the Voronoi&#45;based planner class" alt="" coords="5,228,220,284"/>
+<area shape="rect" id="node4" href="$path__planner__node_8cpp.html" title=": Contains the path planner ROS wrapper class" alt="" coords="244,228,411,284"/>
+</map>

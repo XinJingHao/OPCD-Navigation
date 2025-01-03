@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,111,55,138"/>
+<area shape="rect" id="node2" href="$classplugins_1_1xml__generate_1_1XMLGenerator.html" title=" " alt="" coords="103,111,363,138"/>
+<area shape="rect" id="node3" href="$classplugins_1_1maps__generate_1_1MapsGenerator.html" title=" " alt="" coords="411,5,625,47"/>
+<area shape="rect" id="node4" href="$classplugins_1_1obstacles__generate_1_1ObstacleGenerator.html" title=" " alt="" coords="416,71,620,112"/>
+<area shape="rect" id="node5" href="$classplugins_1_1pedestrians__generate_1_1PedGenerator.html" title=" " alt="" coords="428,136,608,177"/>
+<area shape="rect" id="node6" href="$classplugins_1_1robot__generate_1_1RobotGenerator.html" title=" " alt="" coords="411,201,625,243"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rmp::path_planner::LPAStarPathPlanner::extractPath" name="rmp::path_planner::LPAStarPathPlanner::extractPath">
+<area shape="rect" id="node1" title="Extract path for map." alt="" coords="5,90,164,146"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1structure_1_1Node.html#ac02ec547b8e7a6df02b0101df874d608" title=" " alt="" coords="212,5,391,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1LPAStarPathPlanner.html#abd4d91e07811b01ce2cdf5ee47cce0e1" title="Get neighbour LNodePtrs of nodePtr." alt="" coords="222,122,381,178"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="439,56,617,97"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="439,203,617,244"/>
+<area shape="rect" id="node4" href="$classrmp_1_1path__planner_1_1LPAStarPathPlanner.html#aff0e4d48d6ee874dc22062d90114536b" title="Check if there is collision between n1 and n2." alt="" coords="449,122,607,178"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html#ad448a4c7fdeeabcb1d3900b072ec082a" title=" " alt="" coords="665,129,844,171"/>
+</map>

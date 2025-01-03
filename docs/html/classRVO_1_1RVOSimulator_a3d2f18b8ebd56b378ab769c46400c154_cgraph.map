@@ -1,0 +1,4 @@
+<map id="RVO::RVOSimulator::addAgent" name="RVO::RVOSimulator::addAgent">
+<area shape="rect" id="node1" title="Adds a new agent to the simulation." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node2" href="$classRVO_1_1RVOSimulator.html#adf052cd355b2be37f6bc2c127177f224" title="Adds a new agent with default properties to the simulation." alt="" coords="211,5,368,47"/>
+</map>

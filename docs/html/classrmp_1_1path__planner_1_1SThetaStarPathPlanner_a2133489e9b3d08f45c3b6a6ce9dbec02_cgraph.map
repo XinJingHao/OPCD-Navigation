@@ -1,0 +1,19 @@
+<map id="rmp::path_planner::SThetaStarPathPlanner::plan" name="rmp::path_planner::SThetaStarPathPlanner::plan">
+<area shape="rect" id="node1" title="S&#45;Theta* implementation." alt="" coords="5,347,212,388"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1SThetaStarPathPlanner.html#aa7e101691a67dcb55695f93861f7115d" title="Get the deviation cost." alt="" coords="267,63,437,119"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="495,5,673,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="495,71,673,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1path__planner_1_1SThetaStarPathPlanner.html#a805a37376fbdfc8aa72b4ffaf549c6ba" title="update the g value of child node" alt="" coords="267,194,437,250"/>
+<area shape="rect" id="node7" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="495,332,673,373"/>
+<area shape="rect" id="node8" href="$classrmp_1_1common_1_1structure_1_1Node.html#ad448a4c7fdeeabcb1d3900b072ec082a" title=" " alt="" coords="495,397,673,439"/>
+<area shape="rect" id="node11" href="$classrmp_1_1path__planner_1_1PathPlanner.html#ab73e27dd277b8fbeea52b3d0af20f110" title="Transform from grid index(i) to grid map(x, y)" alt="" coords="263,376,441,417"/>
+<area shape="rect" id="node12" href="$classrmp_1_1common_1_1structure_1_1Node.html#a82b7807efcf6131950d9396e4cd5f0f5" title=" " alt="" coords="263,441,441,483"/>
+<area shape="rect" id="node13" href="$classrmp_1_1common_1_1structure_1_1Node.html#ab9d892f8cd362fed29f47d932e633d5f" title="set the property of node" alt="" coords="263,507,441,548"/>
+<area shape="rect" id="node14" href="$classrmp_1_1common_1_1structure_1_1Node.html#a8e305be9447f6b24755af85e27b0c5ba" title=" " alt="" coords="263,572,441,613"/>
+<area shape="rect" id="node15" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#ae3dc1d2e3c05ed4153cef390a29b66e2" title=" " alt="" coords="260,637,444,679"/>
+<area shape="rect" id="node16" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a016742e51916837f5a107afcd1a9568c" title=" " alt="" coords="260,703,444,744"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1Node.html#ac02ec547b8e7a6df02b0101df874d608" title=" " alt="" coords="495,136,673,177"/>
+<area shape="rect" id="node9" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9a2fafd5790b9451b633f6eed96efe6f" title=" " alt="" coords="495,201,673,243"/>
+<area shape="rect" id="node10" href="$classrmp_1_1common_1_1structure_1_1Node.html#a1d3b739b40d6812b73ef876387eb12f7" title=" " alt="" coords="495,267,673,308"/>
+<area shape="rect" id="node17" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#aaad3d454aa263b29691cb58d353954ad" title=" " alt="" coords="492,703,676,744"/>
+</map>

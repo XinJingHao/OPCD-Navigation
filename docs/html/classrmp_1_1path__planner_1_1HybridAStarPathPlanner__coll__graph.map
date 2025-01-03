@@ -1,0 +1,6 @@
+<map id="rmp::path_planner::HybridAStarPathPlanner" name="rmp::path_planner::HybridAStarPathPlanner">
+<area shape="rect" id="node1" title="Class for objects that plan using the A* algorithm." alt="" coords="78,829,293,1097"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PathPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,455,232,767"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner_1_1HybridNode.html" title=" " alt="" coords="256,506,435,715"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html" title="Basic Node class." alt="" coords="283,5,407,405"/>
+</map>

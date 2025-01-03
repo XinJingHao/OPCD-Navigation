@@ -1,0 +1,4 @@
+<map id="rmp::path_planner::PathPlannerNode::makePlanService" name="rmp::path_planner::PathPlannerNode::makePlanService">
+<area shape="rect" id="node1" title="Regeister planning service." alt="" coords="5,5,260,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PathPlannerNode.html#ae62c2a81ae400809a4d37c71f474ba56" title="Plan a path given start and goal in world map." alt="" coords="308,5,515,47"/>
+</map>

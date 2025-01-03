@@ -1,0 +1,8 @@
+<map id="spencer_tracking_rviz_plugin::TrackedPersonsDisplay" name="spencer_tracking_rviz_plugin::TrackedPersonsDisplay">
+<area shape="rect" id="node1" title=" " alt="" coords="123,971,350,1649"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html" title=" " alt="" coords="79,580,394,921"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,279,199,385"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1StylesChangedSubscriber.html" title="Subclasses of PersonDisplayCommon can override stylesChanged() to get notified when one of the proper..." alt="" coords="115,5,358,112"/>
+<area shape="rect" id="node5" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html" title="A display with common properties that are shared by multiple specializations." alt="" coords="274,161,525,503"/>
+<area shape="rect" id="node6" title=" " alt="" coords="383,13,576,105"/>
+</map>

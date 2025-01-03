@@ -1,0 +1,15 @@
+<map id="rmp::controller::APFController::computeVelocityCommands" name="rmp::controller::APFController::computeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,287,220,328"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a1040520505cdecf51b742f0f6c47f83d" title="Gets the angle between the vector and the positive x semi&#45;axis." alt="" coords="283,5,467,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1Controller.html#a70032e281a2c432edc08639dd89041e2" title="angular velocity regularization" alt="" coords="280,71,471,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1APFController.html#ad867e22233301799eebc06bf555cceb5" title="Get the attractive force of APF." alt="" coords="268,136,483,177"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a08b585517ea89af0dd3e2abdd02bb484" title="Gets the length of the vector." alt="" coords="769,165,953,207"/>
+<area shape="rect" id="node7" href="$classrmp_1_1controller_1_1APFController.html#acc55fc341c4fe14f8a449f1a76ec5f47" title="Get the repulsive force of APF." alt="" coords="268,253,483,295"/>
+<area shape="rect" id="node9" href="$classrmp_1_1controller_1_1Controller.html#a7571bb065fdde2c4987f4fbdd1a0ff75" title="linear velocity regularization" alt="" coords="280,319,471,360"/>
+<area shape="rect" id="node10" href="$classrmp_1_1controller_1_1Controller.html#abbf73344b0061abf0765e9c0b84ec6b6" title="Regularize angle to [&#45;pi, pi]." alt="" coords="280,384,471,425"/>
+<area shape="rect" id="node11" href="$classrmp_1_1controller_1_1Controller.html#a42636847a224d763b531eda7c7b94035" title="Whether to reach the target pose through rotation operation." alt="" coords="280,449,471,491"/>
+<area shape="rect" id="node12" href="$classrmp_1_1controller_1_1Controller.html#ae78ef12b03eb3ea28d5cb50ef09dcfe1" title="Whether to correct the tracking path with rotation operation." alt="" coords="280,515,471,556"/>
+<area shape="rect" id="node13" href="$classrmp_1_1controller_1_1Controller.html#a44440d4909225a23e13b9145ae5b09cf" title="Tranform from in_pose to out_pose with out frame using tf." alt="" coords="280,580,471,621"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#ae6d0f1718e0139290c6ac00d32bc7a72" title="Returns the unit vector that is co&#45;linear with this vector." alt="" coords="534,136,718,177"/>
+<area shape="rect" id="node8" href="$classrmp_1_1controller_1_1Controller.html#a219f9260f3df3bed83b01f038243c20f" title="Tranform from world map(x, y) to costmap(x, y)" alt="" coords="531,253,721,295"/>
+</map>

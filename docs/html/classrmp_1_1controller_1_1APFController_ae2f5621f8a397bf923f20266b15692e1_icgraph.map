@@ -1,0 +1,5 @@
+<map id="rmp::controller::APFController::publishPotentialMap" name="rmp::controller::APFController::publishPotentialMap">
+<area shape="rect" id="node1" title="Callback function of costmap_sub_ to publish /potential_map topic." alt="" coords="531,5,745,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1APFController.html#ada7eb4130ac0270f234835e3396bb822" title="Initialization of the local planner." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1APFController.html#a3c80df6c00087725e1491aa4bb5e3be5" title="Construct a new APFController object." alt="" coords="5,5,220,47"/>
+</map>

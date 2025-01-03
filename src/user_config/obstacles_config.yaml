@@ -1,0 +1,18 @@
+# static obstacles
+obstacles:
+  - type: BOX
+    pose: 4 2 0 0 0 0
+    color: Grey
+    props:
+      m: 1.00
+      w: 0.50
+      d: 1.00
+      h: 0.80
+  - type: BOX
+    pose: 3 3 0 0 0 0
+    color: Grey
+    props:
+      m: 1.00
+      w: 1.00
+      d: 0.50
+      h: 1.00

@@ -1,0 +1,9 @@
+<map id="rmp::common::geometry::BSplineCurve::run" name="rmp::common::geometry::BSplineCurve::run">
+<area shape="rect" id="node1" title="Running trajectory generation." alt="" coords="5,136,189,177"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a41dc4a4e13f262ad7ee80fcb298fe388" title="Given a set of N data points, D0, D1, ..., Dn, a degree k, and a number H, where N &gt; H &gt; k &gt;= 1,..." alt="" coords="241,5,461,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a6031b452f6c291b58b3c061e9dfe22af" title="Generate the path." alt="" coords="253,71,448,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a9f69b326fea0ea4d5b6f927e25c6ee23" title="Given a set of N data points, D0, D1, ..., Dn and a degree k, find a B&#45;spline curve of degree k defin..." alt="" coords="247,136,455,177"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#ac1568de2913d0d4f1e7fd3efbb5a5c4f" title="Generate knot vector." alt="" coords="237,201,464,243"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a877c413567ec83c2a80d14d455eaf854" title="Calculate parameters using the uniform spaced or chrod length or centripetal method." alt="" coords="237,267,464,308"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a0a1b275c3aa36c91692f217508fb887b" title="Calculate base function using Cox&#45;deBoor function." alt="" coords="512,71,723,112"/>
+</map>

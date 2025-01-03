@@ -1,0 +1,5 @@
+<map id="rmp::controller::MPCController" name="rmp::controller::MPCController">
+<area shape="rect" id="node1" title="A class implementing a local planner using the MPC." alt="" coords="55,600,285,971"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,240,143,317"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1Controller.html" title=" " alt="" coords="167,5,365,552"/>
+</map>

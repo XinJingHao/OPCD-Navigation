@@ -1,0 +1,12 @@
+<map id="gazebo::PedestrianSFMPlugin::OnUpdate" name="gazebo::PedestrianSFMPlugin::OnUpdate">
+<area shape="rect" id="node1" title="Function that is called every update cycle." alt="" coords="5,106,220,147"/>
+<area shape="rect" id="node2" href="$classutils_1_1Angle.html#a2e7aca1115f1292dd06dd00ab724a9be" title=" " alt="" coords="531,37,709,64"/>
+<area shape="rect" id="node4" href="$classutils_1_1Vector2d.html#a78dd963d96d9ebf9e4275a548f8dd5cf" title=" " alt="" coords="298,33,453,60"/>
+<area shape="rect" id="node5" href="$classutils_1_1Vector2d.html#acadf3c9b71abe625e8fc2309f4cb4504" title=" " alt="" coords="299,84,452,110"/>
+<area shape="rect" id="node6" href="$classgazebo_1_1PedestrianSFMPlugin.html#af0704abc73c874bd582ca231bc4ccfef" title="Helper function to detect the closest obstacles." alt="" coords="268,200,483,242"/>
+<area shape="rect" id="node8" href="$classgazebo_1_1PedestrianSFMPlugin.html#a8e0c4e016d6ee421b681f56eaf19d6b3" title="Helper function to detect the nearby pedestrians (other actors)." alt="" coords="268,135,483,176"/>
+<area shape="rect" id="node10" href="$classutils_1_1Angle.html#ae6e56669294a785671a45a99c54067b2" title=" " alt="" coords="295,266,456,293"/>
+<area shape="rect" id="node3" href="$classutils_1_1Angle.html#a506480a9603c60b25c2b76fdafd0826b" title=" " alt="" coords="757,37,897,64"/>
+<area shape="rect" id="node7" href="$namespacermp_1_1common_1_1math.html#a4f81da967a5afadd3bf33c2d57135741" title="Clamp a value between two bounds. If the value goes beyond the bounds, return one of the bounds,..." alt="" coords="539,200,701,242"/>
+<area shape="rect" id="node9" href="$classutils_1_1Vector2d.html#ae59a6b71988f400237537d86d4305e38" title=" " alt="" coords="548,142,692,169"/>
+</map>

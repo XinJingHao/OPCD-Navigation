@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/install
+
+Name: dwa_controller
+Description: Description of dwa_controller
+Version: 1.17.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldwa_controller
+Requires: base_local_planner dynamic_reconfigure nav_msgs pluginlib sensor_msgs roscpp tf2 tf2_ros

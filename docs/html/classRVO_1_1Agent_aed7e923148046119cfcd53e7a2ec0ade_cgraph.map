@@ -1,0 +1,4 @@
+<map id="RVO::Agent::insertObstacleNeighbor" name="RVO::Agent::insertObstacleNeighbor">
+<area shape="rect" id="node1" title="Inserts a static obstacle neighbor into the set of neighbors of this agent." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$namespaceRVO.html#a369109da191e48a37856833836656ee8" title=" " alt="" coords="252,13,349,39"/>
+</map>

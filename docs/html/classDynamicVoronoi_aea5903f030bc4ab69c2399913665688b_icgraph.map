@@ -1,0 +1,4 @@
+<map id="DynamicVoronoi::getDistance" name="DynamicVoronoi::getDistance">
+<area shape="rect" id="node1" title="returns the obstacle distance at the specified location" alt="" coords="240,13,456,39"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1VoronoiPathPlanner.html#a660c677db162e6aeab9fc6dd81ea9126" title="Voronoi&#45;based planning implementation." alt="" coords="5,5,192,47"/>
+</map>

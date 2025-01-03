@@ -1,0 +1,5 @@
+<map id="DynamicVoronoi::removeObstacle" name="DynamicVoronoi::removeObstacle">
+<area shape="rect" id="node1" title=" " alt="" coords="255,35,500,61"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#aa93b79d97c4e8347c812b6f9bbca20da" title="remove an obstacle at the specified cell coordinate" alt="" coords="9,5,203,32"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a19c5eaf461ff8614b7257c2ebbbf048c" title="remove old dynamic obstacles and add the new ones" alt="" coords="5,57,207,98"/>
+</map>

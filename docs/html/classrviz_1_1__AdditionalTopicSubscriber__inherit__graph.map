@@ -1,0 +1,6 @@
+<map id="rviz::_AdditionalTopicSubscriber" name="rviz::_AdditionalTopicSubscriber">
+<area shape="rect" id="node1" title="Helper superclass for AdditionalTopicSubscriber, needed because Qt&#39;s moc and c++ templates don&#39;t work..." alt="" coords="43,132,271,253"/>
+<area shape="rect" id="node3" href="$classrviz_1_1AdditionalTopicSubscriber.html" title=" " alt="" coords="5,721,320,1063"/>
+<area shape="rect" id="node4" href="$classrviz_1_1AdditionalTopicSubscriber.html" title="Display subclass using a tf::MessageFilter, templated on the ROS message type." alt="" coords="178,303,403,644"/>
+<area shape="rect" id="node2" title=" " alt="" coords="120,5,195,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DynamicVoronoi::occupyCell" name="DynamicVoronoi::occupyCell">
+<area shape="rect" id="node1" title="add an obstacle at the specified cell coordinate" alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#aa9719e4ba2c9f766fba77c76fddeb548" title=" " alt="" coords="263,5,477,32"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a04fbb8a139fdcad75a4f3b6f26228891" title="checks whether the specficied location is occupied" alt="" coords="525,5,735,32"/>
+</map>

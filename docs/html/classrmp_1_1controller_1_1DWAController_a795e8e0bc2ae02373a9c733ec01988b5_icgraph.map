@@ -1,0 +1,8 @@
+<map id="rmp::controller::DWAController::isInitialized" name="rmp::controller::DWAController::isInitialized">
+<area shape="rect" id="node1" title=" " alt="" coords="567,104,789,145"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1DWAController.html#a0005bf1e785ac1694ff6fbba527d37d7" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="276,5,519,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1DWAController.html#ad96719b392b235a5d6737667e1927b13" title="Constructs the ros wrapper." alt="" coords="286,71,509,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1DWAController.html#a46fc35e1b2b2b88fdb87a013acfadb9b" title="Check if the goal pose has been achieved." alt="" coords="286,136,509,177"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1DWAController.html#ad95bacfd2e8ec5a2adbb466f49835ba7" title="Set the plan that the controller is following." alt="" coords="286,201,509,243"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1DWAController.html#a3b823a0a505f2ca36e745ffb797b1de2" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="5,5,228,47"/>
+</map>

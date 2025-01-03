@@ -1,0 +1,4 @@
+<map id="RVO::Vector2::operator*" name="RVO::Vector2::operator*">
+<area shape="rect" id="node1" title="Computes the scalar multiplication of this two&#45;dimensional vector with the specified scalar value." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$classRVO_1_1Vector2.html#ad2aceeb7443201b76926eae39b18afae" title="Constructs and initializes a two&#45;dimensional vector instance to (0.0, 0.0)." alt="" coords="232,5,399,32"/>
+</map>

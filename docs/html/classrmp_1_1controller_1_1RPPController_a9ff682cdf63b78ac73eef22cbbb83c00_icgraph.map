@@ -1,0 +1,4 @@
+<map id="rmp::controller::RPPController::_dphi" name="rmp::controller::RPPController::_dphi">
+<area shape="rect" id="node1" title="calculate the relative angle between robot&#39; yaw and relative lookahead vector" alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1RPPController.html#a3f1b3b0402f0d773a1df7f0d1ed6dfec" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+</map>

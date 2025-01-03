@@ -1,0 +1,13 @@
+<robot name="my_sensors" xmlns:xacro="http://wiki.ros.org/xacro">
+    <gazebo>
+    <plugin name="imu_plugin" filename="libgazebo_ros_imu.so">
+      <alwaysOn>true</alwaysOn>
+      <bodyName>base_footprint</bodyName>
+      <topicName>imu</topicName>
+      <serviceName>imu_service</serviceName>
+      <gaussianNoise>0.0</gaussianNoise>
+      <updateRate>50</updateRate> <!-- 随仿真步长尽可能地快 -->
+    </plugin>
+  </gazebo>
+
+</robot>

@@ -1,0 +1,13 @@
+<map id="RVO::leftOf" name="RVO::leftOf">
+<area shape="rect" id="node1" title="Computes the signed distance from a line connecting th specified points to a specified point." alt="" coords="807,111,901,138"/>
+<area shape="rect" id="node2" href="$classRVO_1_1RVOSimulator.html#af84ffac58c2b1d9b6ed44e02df3ea49e" title="Adds a new obstacle to the simulation." alt="" coords="578,5,735,47"/>
+<area shape="rect" id="node3" href="$classRVO_1_1KdTree.html#a51474fc2b7bab85353953695ec6247ab" title="Recursive function to build an obstacle k&#45;D tree." alt="" coords="557,71,756,112"/>
+<area shape="rect" id="node6" href="$classRVO_1_1KdTree.html#ac175aa6953a4bb8373bd3c7f453f4a49" title="Recursive function to compute the neighbors of the specified obstacle." alt="" coords="555,136,759,177"/>
+<area shape="rect" id="node9" href="$classRVO_1_1KdTree.html#a8e71d4edca157b39c901a6bdbef96054" title="Recursive function to query the visibility between two points within a specified radius." alt="" coords="555,201,759,243"/>
+<area shape="rect" id="node4" href="$classRVO_1_1KdTree.html#a7c3dd1d7192ad13214bcb17215b73a00" title="Builds an obstacle k&#45;D tree." alt="" coords="280,78,507,105"/>
+<area shape="rect" id="node5" href="$classRVO_1_1RVOSimulator.html#a58569ddc2f92f575471031f0a8e4951c" title="Processes the obstacles that have been added so that they are accounted for in the simulation." alt="" coords="40,71,197,112"/>
+<area shape="rect" id="node7" href="$classRVO_1_1KdTree.html#a7ecf61aef381dcb3f47089beddbb76ad" title="Computes the obstacle neighbors of the specified agent." alt="" coords="281,136,505,177"/>
+<area shape="rect" id="node8" href="$classRVO_1_1Agent.html#a758bfffc35683b345b56d54257571665" title="Computes the neighbors of this agent." alt="" coords="5,143,232,170"/>
+<area shape="rect" id="node10" href="$classRVO_1_1KdTree.html#a361a086b2524965902c2a0619b91e529" title="Queries the visibility between two points within a specified radius." alt="" coords="291,209,495,235"/>
+<area shape="rect" id="node11" href="$classRVO_1_1RVOSimulator.html#af4c9841ec9417c9bcf183af6bf6ce62b" title="Performs a visibility query between the two specified points with respect to the obstacles." alt="" coords="40,201,197,243"/>
+</map>

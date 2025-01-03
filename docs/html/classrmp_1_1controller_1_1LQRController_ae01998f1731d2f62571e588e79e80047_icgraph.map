@@ -1,0 +1,4 @@
+<map id="rmp::controller::LQRController::initialize" name="rmp::controller::LQRController::initialize">
+<area shape="rect" id="node1" title="Initialization of the local controller." alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1LQRController.html#af2b6204d8c86069a3dae5c5378f31cf7" title="Construct a new LQR controller object." alt="" coords="5,5,221,47"/>
+</map>

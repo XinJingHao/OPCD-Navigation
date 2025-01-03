@@ -1,0 +1,16 @@
+(cl:in-package pedsim_msgs-msg)
+(cl:export '(DESIRED_FORCE-VAL
+          DESIRED_FORCE
+          OBSTACLE_FORCE-VAL
+          OBSTACLE_FORCE
+          SOCIAL_FORCE-VAL
+          SOCIAL_FORCE
+          GROUP_COHERENCE_FORCE-VAL
+          GROUP_COHERENCE_FORCE
+          GROUP_GAZE_FORCE-VAL
+          GROUP_GAZE_FORCE
+          GROUP_REPULSION_FORCE-VAL
+          GROUP_REPULSION_FORCE
+          RANDOM_FORCE-VAL
+          RANDOM_FORCE
+))

@@ -1,0 +1,102 @@
+# sfm algorithm configure
+social_force:
+  animation_factor: 5.1
+  # only handle pedestrians within `people_distance`
+  people_distance: 6.0
+  # weights of social force model
+  goal_weight: 2.0
+  obstacle_weight: 20.0
+  social_weight: 15
+  group_gaze_weight: 3.0
+  group_coh_weight: 2.0
+  group_rep_weight: 1.0
+
+# pedestrians setting (should be identical with warehouse_L1_L3_L4.world)
+pedestrians:
+  update_rate: 5
+  ped_property:
+
+    - name: human_1
+      pose: 4 9 1 0 0 0
+      velocity: 0.4
+      radius: 0.4
+      cycle: true
+      ignore:
+        model_1: ground_plane
+        model_2: fml_robot_movebase
+      trajectory:
+        goal_point_1: 4 9 1 0 0 0
+        goal_point_2: 4 -3 1 0 0 0
+
+    - name: human_2
+      pose: 7 1 1 0 0 0
+      velocity: 0.4
+      radius: 0.4
+      cycle: true
+      ignore:
+        model_1: ground_plane
+        model_2: fml_robot_movebase
+      trajectory:
+        goal_point_1: 7 1 1 0 0 0
+        goal_point_2: 9 -7 1 0 0 0
+
+    - name: human_3
+      pose: -4 9 1 0 0 0
+      velocity: 0.4
+      radius: 0.4
+      cycle: true
+      ignore:
+        model_1: ground_plane
+        model_2: fml_robot_movebase
+      trajectory:
+        goal_point_1: -4 9 1 0 0 0
+        goal_point_2: -4 -3 1 0 0 0
+
+    - name: human_4
+      pose: -4 -9 1 0 0 0
+      velocity: 0.4
+      radius: 0.4
+      cycle: true
+      ignore:
+        model_1: ground_plane
+        model_2: fml_robot_movebase
+      trajectory:
+        goal_point_1: -4 -9 1 0 0 0
+        goal_point_2: 4 -3 1 0 0 0
+
+    - name: human_5
+      pose: -8 8 1 0 0 0
+      velocity: 0.4
+      radius: 0.4
+      cycle: true
+      ignore:
+        model_1: ground_plane
+        model_2: fml_robot_movebase
+      trajectory:
+        goal_point_1: -8 8 1 0 0 0
+        goal_point_2: -8 -8 1 0 0 0
+
+    - name: human_6
+      pose: -2 9 1 0 0 0
+      velocity: 0.4
+      radius: 0.4
+      cycle: true
+      ignore:
+        model_1: ground_plane
+        model_2: fml_robot_movebase
+      trajectory:
+        goal_point_1: -2 9 1 0 0 0
+        goal_point_2: -8 9 1 0 0 0
+
+    - name: human_7
+      pose: 9 3 1 0 0 0
+      velocity: 0.4
+      radius: 0.4
+      cycle: true
+      ignore:
+        model_1: ground_plane
+        model_2: fml_robot_movebase
+      trajectory:
+        goal_point_1: 9 3 1 0 0 0
+        goal_point_2: 4 9 1 0 0 0
+

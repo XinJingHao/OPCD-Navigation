@@ -1,0 +1,6 @@
+<map id="DynamicVoronoi::setObstacle" name="DynamicVoronoi::setObstacle">
+<area shape="rect" id="node1" title=" " alt="" coords="276,71,491,98"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#a19c5eaf461ff8614b7257c2ebbbf048c" title="remove old dynamic obstacles and add the new ones" alt="" coords="16,5,217,47"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#ae4650e19a4754f476508dafb08ff8fed" title="Initialization with a given binary map (false==free, true==occupied)" alt="" coords="5,71,228,98"/>
+<area shape="rect" id="node4" href="$classDynamicVoronoi.html#aecb1202c10fb0d67c0363490971f0a53" title="add an obstacle at the specified cell coordinate" alt="" coords="12,122,221,149"/>
+</map>

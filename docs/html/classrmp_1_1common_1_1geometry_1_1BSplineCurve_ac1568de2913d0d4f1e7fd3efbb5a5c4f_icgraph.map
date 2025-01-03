@@ -1,0 +1,5 @@
+<map id="rmp::common::geometry::BSplineCurve::knotGeneration" name="rmp::common::geometry::BSplineCurve::knotGeneration">
+<area shape="rect" id="node1" title="Generate knot vector." alt="" coords="469,5,696,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a33c128ed86557a7321b5c7cac113cb8e" title="Running trajectory generation." alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#aec478c23fbb021aed868f8cadcc53d88" title="Running trajectory generation." alt="" coords="5,5,189,47"/>
+</map>

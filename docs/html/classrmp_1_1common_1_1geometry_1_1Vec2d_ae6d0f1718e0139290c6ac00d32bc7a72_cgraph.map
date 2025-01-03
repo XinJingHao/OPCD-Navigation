@@ -1,0 +1,4 @@
+<map id="rmp::common::geometry::Vec2d::normalize" name="rmp::common::geometry::Vec2d::normalize">
+<area shape="rect" id="node1" title="Returns the unit vector that is co&#45;linear with this vector." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a08b585517ea89af0dd3e2abdd02bb484" title="Gets the length of the vector." alt="" coords="237,5,421,47"/>
+</map>

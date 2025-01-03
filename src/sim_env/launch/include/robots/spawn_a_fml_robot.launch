@@ -1,0 +1,33 @@
+<!-- 作者: Jinghao Xin -->
+<!-- 向gazebo里spawn一个命名空间为namespace的机器人 -->
+
+<launch>
+    <arg name="namespace" default="fml_robot_0" />
+    <arg name="x" default="0.0" />
+    <arg name="y" default="0.0" />
+    <arg name="z" default="0.0" />
+    <arg name="rotate_x" default="0.0" /> <!-- 绕X轴旋转角度, radians -->
+    <arg name="rotate_y" default="0.0" /> <!-- 绕Y轴旋转角度, radians -->
+    <arg name="rotate_z" default="0.0" /> <!-- 绕Z轴旋转角度, radians -->
+
+
+    <group ns="$(arg namespace)">
+        <param name="robot_description" command="$(find xacro)/xacro $(find sim_env)/urdf/fml_robot/fml_robot.xacro namespace:=$(arg namespace)"/>
+
+        <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" >
+            <param name="rate" type="double" value="100.0" />
+        </node>
+
+        <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" >
+            <param name="publish_frequency" type="double" value="100.0" />
+            <param name="tf_prefix" value="$(arg namespace)" />
+        </node>
+
+        <node pkg="gazebo_ros" type="spawn_model" name="spawn_$(arg namespace)" respawn="false" output="log" args="-urdf -model $(arg namespace) -param robot_description -x $(arg x) -y $(arg y) -z $(arg z) -R $(arg rotate_x) -P $(arg rotate_y) -Y $(arg rotate_z)"/>   
+        <!-- 这里-model $(arg namespace)只是给gazebo中的物件命名，不参与topic和TF的命名空间 -->
+        
+    </group>
+
+</launch>
+
+

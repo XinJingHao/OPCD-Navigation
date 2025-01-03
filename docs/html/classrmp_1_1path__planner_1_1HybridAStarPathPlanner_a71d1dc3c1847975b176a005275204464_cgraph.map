@@ -1,0 +1,24 @@
+<map id="rmp::path_planner::HybridAStarPathPlanner::plan" name="rmp::path_planner::HybridAStarPathPlanner::plan">
+<area shape="rect" id="node1" title="Hybrid A* implementation." alt="" coords="5,662,220,703"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner.html#a96fcd43c597d2810fac1236a05bb7b8c" title="Convert closed list to path." alt="" coords="268,223,464,279"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1Node.html#ad448a4c7fdeeabcb1d3900b072ec082a" title=" " alt="" coords="515,165,693,206"/>
+<area shape="rect" id="node4" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a4e5e94cb644d108b6342ab26422bc3ff" title="Tranform from world map(x, y) to costmap(x, y)" alt="" coords="744,391,924,433"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="515,287,693,329"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="515,353,693,394"/>
+<area shape="rect" id="node7" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner.html#a2e96a694a0f2494549a5da984af9d296" title="Tranform from world map(x, y) to grid index(i)" alt="" coords="515,520,693,576"/>
+<area shape="rect" id="node8" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="745,482,923,523"/>
+<area shape="rect" id="node9" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner.html#a20cb32387833e1c69770dcdd6937fafc" title="Try using Dubins curves to connect the start and goal." alt="" coords="277,404,455,460"/>
+<area shape="rect" id="node10" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner_1_1HybridNode.html#ab73c153da2a0a1154498205d11dafa96" title=" " alt="" coords="515,844,693,900"/>
+<area shape="rect" id="node11" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner.html#a3cb04702428aa1aa38b7747e1c613eaf" title="generate heurisitic map using A* algorithm, each matric of map is the distance between it and start." alt="" coords="277,92,455,148"/>
+<area shape="rect" id="node12" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner_1_1HybridNode.html#ad0f6418f1a27cc5cb043e144956174e4" title="Get permissible motion." alt="" coords="275,695,457,751"/>
+<area shape="rect" id="node13" href="$classrmp_1_1common_1_1structure_1_1Node.html#a1d3b739b40d6812b73ef876387eb12f7" title=" " alt="" coords="277,775,455,817"/>
+<area shape="rect" id="node14" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner_1_1HybridNode.html#ad7c54ef74d1ea256c3bf414c6d5c8f5f" title=" " alt="" coords="277,841,455,897"/>
+<area shape="rect" id="node15" href="$classrmp_1_1common_1_1structure_1_1Node.html#ab9d892f8cd362fed29f47d932e633d5f" title="set the property of node" alt="" coords="277,922,455,963"/>
+<area shape="rect" id="node16" href="$classrmp_1_1common_1_1structure_1_1Node.html#a8e305be9447f6b24755af85e27b0c5ba" title=" " alt="" coords="277,987,455,1029"/>
+<area shape="rect" id="node17" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a766785c2f3cae4dd916ecac2503d1208" title=" " alt="" coords="274,1053,458,1094"/>
+<area shape="rect" id="node18" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner.html#a83cc115582345750ca2506e798c10889" title="update the h&#45;value of hybrid node" alt="" coords="277,535,455,591"/>
+<area shape="rect" id="node19" href="$classrmp_1_1path__planner_1_1HybridAStarPathPlanner.html#ac1484cfbb99eb71feb9afa8d29ea18d2" title="update index of hybrid node" alt="" coords="277,615,455,671"/>
+<area shape="rect" id="node20" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#ae3dc1d2e3c05ed4153cef390a29b66e2" title=" " alt="" coords="274,1221,458,1262"/>
+<area shape="rect" id="node21" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a016742e51916837f5a107afcd1a9568c" title=" " alt="" coords="274,1286,458,1327"/>
+<area shape="rect" id="node22" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#aaad3d454aa263b29691cb58d353954ad" title=" " alt="" coords="512,1286,696,1327"/>
+</map>

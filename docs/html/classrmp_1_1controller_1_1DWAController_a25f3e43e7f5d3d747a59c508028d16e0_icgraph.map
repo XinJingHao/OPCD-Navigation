@@ -1,0 +1,4 @@
+<map id="rmp::controller::DWAController::publishGlobalPlan" name="rmp::controller::DWAController::publishGlobalPlan">
+<area shape="rect" id="node1" title=" " alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1DWAController.html#a3b823a0a505f2ca36e745ffb797b1de2" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="5,5,228,47"/>
+</map>

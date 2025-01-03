@@ -1,0 +1,5 @@
+<map id="RVO::RVOSimulator::getAgentNewSpeed" name="RVO::RVOSimulator::getAgentNewSpeed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree.html#a66afab92f8718ee6018870fe776f85e3" title="Builds an agent k&#45;D tree." alt="" coords="211,13,417,39"/>
+<area shape="rect" id="node3" href="$classRVO_1_1KdTree.html#a5708426434985a7c4b1ff3d3e6914981" title="Recursive function to build an agent k&#45;D tree." alt="" coords="465,5,672,47"/>
+</map>

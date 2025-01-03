@@ -1,0 +1,6 @@
+<map id="src/core/common/include/common/structure/singleton.h" name="src/core/common/include/common/structure/singleton.h">
+<area shape="rect" id="node1" title=": Contains sigleton instance" alt="" coords="67,5,288,47"/>
+<area shape="rect" id="node2" href="$visualizer_8h.html" title=": Contains visualization functions" alt="" coords="84,95,271,136"/>
+<area shape="rect" id="node3" href="$visualizer_8cpp.html" title=": Contains visualization functions" alt="" coords="5,191,163,233"/>
+<area shape="rect" id="node4" href="$path__planner__node_8cpp.html" title=": Contains the path planner ROS wrapper class" alt="" coords="187,184,354,240"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RVO::RVOSimulator::addObstacle" name="RVO::RVOSimulator::addObstacle">
+<area shape="rect" id="node1" title="Adds a new obstacle to the simulation." alt="" coords="5,49,163,90"/>
+<area shape="rect" id="node2" href="$namespaceRVO.html#aa678d9e285071e3022b20f7f114de963" title="Computes the signed distance from a line connecting th specified points to a specified point." alt="" coords="225,31,319,57"/>
+<area shape="rect" id="node6" href="$namespaceRVO.html#a7fcc365196c28604face4f6302f53273" title=" " alt="" coords="211,81,333,108"/>
+<area shape="rect" id="node3" href="$namespaceRVO.html#a4589b9a7089f148aedefcd64a6000c39" title=" " alt="" coords="383,31,461,57"/>
+<area shape="rect" id="node4" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="511,5,635,32"/>
+<area shape="rect" id="node5" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="511,56,635,83"/>
+<area shape="rect" id="node7" href="$namespaceRVO.html#a7dfc210ac834d1de9bfde0b42d91e8b8" title=" " alt="" coords="381,81,463,108"/>
+</map>

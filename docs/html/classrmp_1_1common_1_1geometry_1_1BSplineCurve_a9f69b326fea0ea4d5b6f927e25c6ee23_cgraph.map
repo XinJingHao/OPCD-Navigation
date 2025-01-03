@@ -1,0 +1,4 @@
+<map id="rmp::common::geometry::BSplineCurve::interpolation" name="rmp::common::geometry::BSplineCurve::interpolation">
+<area shape="rect" id="node1" title="Given a set of N data points, D0, D1, ..., Dn and a degree k, find a B&#45;spline curve of degree k defin..." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a0a1b275c3aa36c91692f217508fb887b" title="Calculate base function using Cox&#45;deBoor function." alt="" coords="261,5,472,47"/>
+</map>

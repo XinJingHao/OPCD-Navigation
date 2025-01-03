@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="32,208,169,235"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1APFController.html" title="A class implementing a local controller using the APF." alt="" coords="250,5,465,32"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1DWAController.html" title="A class implementing a local planner using the Dynamic Window Approach." alt="" coords="246,309,469,336"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1LQRController.html" title="A class implementing a local planner using the LQR." alt="" coords="249,56,465,83"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1MPCController.html" title="A class implementing a local planner using the MPC." alt="" coords="248,107,467,133"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1ORCAController.html" title=" " alt="" coords="244,157,471,184"/>
+<area shape="rect" id="node7" href="$classrmp_1_1controller_1_1PIDController.html" title="A class implementing a local controller using the PID." alt="" coords="251,208,463,235"/>
+<area shape="rect" id="node8" href="$classrmp_1_1controller_1_1RPPController.html" title="A class implementing a local planner using the RPP." alt="" coords="250,259,465,285"/>
+<area shape="rect" id="node9" href="$classrmp_1_1controller_1_1StaticController.html" title="A class implementing a static planner." alt="" coords="244,360,471,387"/>
+<area shape="rect" id="node10" href="$classrmp_1_1controller_1_1Controller.html" title=" " alt="" coords="5,132,196,159"/>
+</map>

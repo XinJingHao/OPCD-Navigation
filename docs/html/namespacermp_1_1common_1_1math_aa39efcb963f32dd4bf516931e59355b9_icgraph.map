@@ -1,0 +1,8 @@
+<map id="rmp::common::math::circleSegmentIntersection" name="rmp::common::math::circleSegmentIntersection">
+<area shape="rect" id="node1" title="Formula for intersection of a line with a circle centered at the origin." alt="" coords="511,104,703,145"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1Controller.html#a5e69a84d5053dcff2ab3954850afb21b" title="find the point on the path that is exactly the lookahead distance away from the robot" alt="" coords="272,104,463,145"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1RPPController.html#a3f1b3b0402f0d773a1df7f0d1ed6dfec" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="7,5,222,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1MPCController.html#a267d55c75fe3983794d0cfda1f0c6c87" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,71,224,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1LQRController.html#a2b25fa968a8ac2a1ada5c8a13513ac27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="7,136,223,177"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1PIDController.html#a12611fa9a6ce080153909ad504e608a6" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="7,201,222,243"/>
+</map>

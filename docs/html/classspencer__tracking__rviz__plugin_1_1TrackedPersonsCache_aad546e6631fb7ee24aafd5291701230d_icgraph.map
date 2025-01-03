@@ -1,0 +1,7 @@
+<map id="spencer_tracking_rviz_plugin::TrackedPersonsCache::reset" name="spencer_tracking_rviz_plugin::TrackedPersonsCache::reset">
+<area shape="rect" id="node1" title="Clear internal state, including all cached track positions." alt="" coords="291,125,509,181"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1SocialRelationsDisplay.html#aa27ecc4767f8fe46949307eb996726c0" title=" " alt="" coords="11,5,237,61"/>
+<area shape="rect" id="node3" href="$classspencer__tracking__rviz__plugin_1_1HumanAttributesDisplay.html#a9e7656679586fd6754be335b1cc43c25" title=" " alt="" coords="5,85,243,141"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1SocialActivitiesDisplay.html#aa4da10c9fc4362720fdc71442f15a92b" title=" " alt="" coords="11,165,237,221"/>
+<area shape="rect" id="node5" href="$classspencer__tracking__rviz__plugin_1_1TrackedGroupsDisplay.html#a2147f9c25f4f93037c488e9a55770f51" title=" " alt="" coords="13,245,235,301"/>
+</map>

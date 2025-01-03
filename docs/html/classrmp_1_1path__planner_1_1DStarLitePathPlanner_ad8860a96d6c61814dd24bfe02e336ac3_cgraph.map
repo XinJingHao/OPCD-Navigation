@@ -1,0 +1,18 @@
+<map id="rmp::path_planner::DStarLitePathPlanner::updateVertex" name="rmp::path_planner::DStarLitePathPlanner::updateVertex">
+<area shape="rect" id="node1" title="Update vertex u." alt="" coords="5,356,165,412"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner.html#a8a184ad0839692f7b4d0535dd8bf34d8" title="Calculate the key of s." alt="" coords="223,203,383,259"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="687,129,865,170"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="687,198,865,239"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1Node.html#ac02ec547b8e7a6df02b0101df874d608" title=" " alt="" coords="213,334,392,375"/>
+<area shape="rect" id="node7" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner.html#a48a2dcedd0440ecbff39cddd7a2491bf" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="459,136,619,192"/>
+<area shape="rect" id="node10" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner.html#abd169bf6a939a5ad601f83fd1cbbb7fc" title="Get neighbour LNodePtrs of nodePtr." alt="" coords="459,5,619,61"/>
+<area shape="rect" id="node11" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner_1_1LNode.html#af274aa670052d37327a9e2b7898e95ac" title=" " alt="" coords="459,419,619,475"/>
+<area shape="rect" id="node12" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner_1_1LNode.html#a7b003689954dd960bb423bfb83839dca" title=" " alt="" coords="459,561,619,617"/>
+<area shape="rect" id="node13" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner_1_1LNode.html#ad7e04ce553db50ee95d392cf9ef2e194" title=" " alt="" coords="459,667,619,723"/>
+<area shape="rect" id="node14" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner_1_1LNode.html#a15fa815a7d5ee2a9becd8157358a29cc" title=" " alt="" coords="223,451,383,507"/>
+<area shape="rect" id="node15" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner_1_1LNode.html#aa35859c7cfd3f1c109787462fbd0ade6" title=" " alt="" coords="223,581,383,637"/>
+<area shape="rect" id="node16" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner_1_1LNode.html#ac2ef1e994effef5e4aa658f85b485027" title=" " alt="" coords="223,712,383,768"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner.html#af3da8f5f2784ace07da8cf1fc35dc01b" title="Get heuristics between n1 and n2." alt="" coords="440,217,639,258"/>
+<area shape="rect" id="node8" href="$classrmp_1_1path__planner_1_1DStarLitePathPlanner.html#a65ce16632231280529f955e8f9225ad9" title="Check if there is collision between n1 and n2." alt="" coords="696,20,856,76"/>
+<area shape="rect" id="node9" href="$classrmp_1_1common_1_1structure_1_1Node.html#ad448a4c7fdeeabcb1d3900b072ec082a" title=" " alt="" coords="913,27,1092,69"/>
+</map>

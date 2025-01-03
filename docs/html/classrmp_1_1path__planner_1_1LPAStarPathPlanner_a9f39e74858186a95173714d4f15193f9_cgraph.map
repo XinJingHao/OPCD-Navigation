@@ -1,0 +1,7 @@
+<map id="rmp::path_planner::LPAStarPathPlanner::getCost" name="rmp::path_planner::LPAStarPathPlanner::getCost">
+<area shape="rect" id="node1" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="5,79,164,135"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1LPAStarPathPlanner.html#aff0e4d48d6ee874dc22062d90114536b" title="Check if there is collision between n1 and n2." alt="" coords="222,5,381,61"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="212,86,391,127"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="212,151,391,193"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1Node.html#ad448a4c7fdeeabcb1d3900b072ec082a" title=" " alt="" coords="439,13,617,54"/>
+</map>

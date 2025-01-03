@@ -1,0 +1,8 @@
+<map id="RVO::KdTree::computeAgentNeighbors" name="RVO::KdTree::computeAgentNeighbors">
+<area shape="rect" id="node1" title="Computes the agent neighbors of the specified agent." alt="" coords="5,49,211,90"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree.html#ab9edd02fce8aca824c8b888f469d8062" title="Recursive function to compute the neighbors of the specified agent." alt="" coords="259,49,471,90"/>
+<area shape="rect" id="node3" href="$classRVO_1_1Agent.html#a9eb83daf6df5c4401b1009865d15a694" title="Inserts an agent neighbor into the set of neighbors of this agent." alt="" coords="519,5,757,32"/>
+<area shape="rect" id="node5" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="576,56,700,83"/>
+<area shape="rect" id="node6" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="576,107,700,133"/>
+<area shape="rect" id="node4" href="$namespaceRVO.html#a369109da191e48a37856833836656ee8" title=" " alt="" coords="805,5,903,32"/>
+</map>

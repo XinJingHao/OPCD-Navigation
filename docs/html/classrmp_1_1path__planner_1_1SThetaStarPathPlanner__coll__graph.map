@@ -1,0 +1,5 @@
+<map id="rmp::path_planner::SThetaStarPathPlanner" name="rmp::path_planner::SThetaStarPathPlanner">
+<area shape="rect" id="node1" title="Class for objects that plan using the S&#45;Theta* algorithm." alt="" coords="21,535,217,685"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1ThetaStarPathPlanner.html" title="Class for objects that plan using the Theta* algorithm." alt="" coords="25,365,213,487"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1PathPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,5,232,317"/>
+</map>

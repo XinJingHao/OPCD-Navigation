@@ -1,0 +1,7 @@
+<map id="spencer_tracking_rviz_plugin::PersonVisual" name="spencer_tracking_rviz_plugin::PersonVisual">
+<area shape="rect" id="node1" title="Base class for all person visualization types." alt="" coords="417,5,600,303"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1BoundingBoxPersonVisual.html" title="Visualization of a person as a wireframe bounding box." alt="" coords="5,365,252,589"/>
+<area shape="rect" id="node3" href="$classspencer__tracking__rviz__plugin_1_1CrosshairPersonVisual.html" title="Visualization of a person as a crosshair." alt="" coords="276,373,499,582"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1CylinderPersonVisual.html" title="Visualization of a person as cylinder (body) + sphere (head)" alt="" coords="523,402,737,553"/>
+<area shape="rect" id="node5" href="$classspencer__tracking__rviz__plugin_1_1MeshPersonVisual.html" title="Visualization of a person as a mesh (walking human)" alt="" coords="761,351,957,604"/>
+</map>

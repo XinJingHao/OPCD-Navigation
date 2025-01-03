@@ -1,0 +1,9 @@
+<map id="rmp::controller::ORCAController::initialize" name="rmp::controller::ORCAController::initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,232,179"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1ORCAController.html#a2d1e2cf546b4ad61b49d5af6acf586e4" title=" " alt="" coords="280,104,507,145"/>
+<area shape="rect" id="node7" href="$classrmp_1_1controller_1_1ORCAController.html#a484418f119dd2c5b17b1d051212defb1" title=" " alt="" coords="280,169,507,211"/>
+<area shape="rect" id="node3" href="$classRVO_1_1RVOSimulator.html#adf052cd355b2be37f6bc2c127177f224" title="Adds a new agent with default properties to the simulation." alt="" coords="555,5,712,47"/>
+<area shape="rect" id="node4" href="$classRVO_1_1RVOSimulator.html#a50a9f091fba0e9722f3282f9428cd972" title="Sets the default properties for any new agent that is added." alt="" coords="555,71,712,112"/>
+<area shape="rect" id="node5" href="$classRVO_1_1RVOSimulator.html#a88fd2a488f8e0ce66d1190600c9c227e" title="Sets the two&#45;dimensional linear velocity of a specified agent." alt="" coords="555,136,712,177"/>
+<area shape="rect" id="node6" href="$classRVO_1_1RVOSimulator.html#a64ae340105fa18df1902027d98bb200b" title="Sets the time step of the simulation." alt="" coords="555,201,712,243"/>
+</map>

@@ -1,0 +1,38 @@
+<robot name="my_lidar" xmlns:xacro="http://wiki.ros.org/xacro">
+
+  <!-- 雷达 -->
+  <gazebo reference="laser"> <!-- 雷达所关联的物件的link name -->
+    <sensor type="gpu_ray" name="rplidar"> <!-- 必须用gpu_ray，不能用ray，否则行人检查会闪烁 -->
+      <pose>0 0 0 0 0 0</pose> <!-- 雷达相对于frameName的位置，有bug，改了没用 -->
+      <visualize>false</visualize> <!-- 是否在gazebo中可视化 -->
+      <update_rate>50</update_rate> <!-- 雷达扫描频率 -->
+      <ray>
+        <scan>
+          <horizontal>
+            <!-- 以下与Sparrow-V3.2一致 -->
+            <samples>72</samples> <!-- 雷达点数 -->
+            <resolution>1</resolution> <!-- 雷达角度分辨率 -->
+            <min_angle>-3.1416</min_angle>
+            <max_angle>3.1416</max_angle>
+          </horizontal>
+        </scan>
+        <range>
+          <min>0.15</min>
+          <max>3.0</max>
+          <resolution>0.02</resolution>
+        </range>
+        <noise>
+          <type>gaussian</type>
+          <mean>0.0</mean>
+          <stddev>0.0</stddev>
+        </noise>
+      </ray>
+      <plugin name="gazebo_ros_lds_lfcd_controller" filename="libgazebo_ros_gpu_laser.so">
+        <topicName>scan</topicName>
+        <frameName>$(arg namespace)/laser</frameName> <!-- 雷达的tf坐标系(多个机器人时，需要加上namespace) -->
+      </plugin>
+    </sensor>
+  </gazebo>
+
+
+</robot>

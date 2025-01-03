@@ -1,0 +1,8 @@
+<map id="rmp::controller::Controller::getYawAngle" name="rmp::controller::Controller::getYawAngle">
+<area shape="rect" id="node1" title="Get the Yaw Angles from PoseStamped." alt="" coords="272,136,463,177"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1RPPController.html#a8b1136c7b9befd578742c883c2e241ea" title="Set the plan that the controller is following." alt="" coords="7,5,222,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1LQRController.html#abe6dac8a999c0885b4c72e965763f491" title="Set the plan that the controller is following." alt="" coords="7,71,223,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1MPCController.html#aa238e05a61753c9550527f3bb4e6a6d2" title="Set the plan that the controller is following." alt="" coords="5,136,224,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1PIDController.html#a7eef147741c514381502c224a0da0e69" title="Set the plan that the controller is following." alt="" coords="9,201,221,243"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1APFController.html#a6ebbe135315a965b8c0895fde816eec6" title="Set the plan that the controller is following." alt="" coords="7,267,222,308"/>
+</map>

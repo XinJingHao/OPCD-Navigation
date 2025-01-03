@@ -1,0 +1,10 @@
+<map id="rmp::common::geometry::BezierCurve::generation" name="rmp::common::geometry::BezierCurve::generation">
+<area shape="rect" id="node1" title="Generate the path." alt="" coords="5,115,192,156"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BezierCurve.html#a8b2e35a6c786cf91598b79884e4ca645" title="Calculate the Bezier curve point." alt="" coords="261,5,445,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1geometry_1_1BezierCurve.html#a1c71610ad8612e0062af1d44d47ef3e9" title="Calculate control points heuristically." alt="" coords="240,173,465,215"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a766785c2f3cae4dd916ecac2503d1208" title=" " alt="" coords="513,75,697,116"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#ae3dc1d2e3c05ed4153cef390a29b66e2" title=" " alt="" coords="513,148,697,189"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a016742e51916837f5a107afcd1a9568c" title=" " alt="" coords="513,228,697,269"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1BezierCurve.html#aebb9e57dcbc086b89d916db36d766601" title=" " alt="" coords="513,5,697,47"/>
+<area shape="rect" id="node8" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#aaad3d454aa263b29691cb58d353954ad" title=" " alt="" coords="745,228,929,269"/>
+</map>

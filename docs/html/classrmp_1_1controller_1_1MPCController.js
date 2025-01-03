@@ -1,0 +1,25 @@
+var classrmp_1_1controller_1_1MPCController =
+[
+    [ "MPCController", "classrmp_1_1controller_1_1MPCController.html#ad627fcae5b2f93beff5b19f802b49427", null ],
+    [ "MPCController", "classrmp_1_1controller_1_1MPCController.html#a11086d3ae1f412043d734f42d25e25ad", null ],
+    [ "~MPCController", "classrmp_1_1controller_1_1MPCController.html#a102db4105ab8c479863e2711e89c66d5", null ],
+    [ "_mpcControl", "classrmp_1_1controller_1_1MPCController.html#a9ad3a62f6ef4a0809eb2c4ce51fcd447", null ],
+    [ "computeVelocityCommands", "classrmp_1_1controller_1_1MPCController.html#a267d55c75fe3983794d0cfda1f0c6c87", null ],
+    [ "initialize", "classrmp_1_1controller_1_1MPCController.html#acee92f77a8fa4501a47888b7f0b34daa", null ],
+    [ "isGoalReached", "classrmp_1_1controller_1_1MPCController.html#a5c79fdc82be69d1a2e8586c61a7d89b8", null ],
+    [ "setPlan", "classrmp_1_1controller_1_1MPCController.html#aa238e05a61753c9550527f3bb4e6a6d2", null ],
+    [ "current_pose_pub_", "classrmp_1_1controller_1_1MPCController.html#a70c4b86cf417978056ab1d21f9f30fc2", null ],
+    [ "d_t_", "classrmp_1_1controller_1_1MPCController.html#a92ea16b0f8088019fad89ab84e24269d", null ],
+    [ "du_p_", "classrmp_1_1controller_1_1MPCController.html#ac0e9f7db3a80dd0a3b3130c557a3eca2", null ],
+    [ "goal_reached_", "classrmp_1_1controller_1_1MPCController.html#a58475e1de599d16df2e5c9d42d316ea3", null ],
+    [ "goal_theta_", "classrmp_1_1controller_1_1MPCController.html#a081906b46a79837c2f79798d8efc0c59", null ],
+    [ "goal_x_", "classrmp_1_1controller_1_1MPCController.html#a0bb76989c17d723df44cd6f1dad6f666", null ],
+    [ "goal_y_", "classrmp_1_1controller_1_1MPCController.html#a828197e75ba47426e3793ef9fc52fdfb", null ],
+    [ "initialized_", "classrmp_1_1controller_1_1MPCController.html#a7baee179a9b91c195129e05824423940", null ],
+    [ "m_", "classrmp_1_1controller_1_1MPCController.html#a42c6520942d3e059949798cab9d2fb48", null ],
+    [ "p_", "classrmp_1_1controller_1_1MPCController.html#a1a9f2c6c609f08051bdea414cc2747d2", null ],
+    [ "Q_", "classrmp_1_1controller_1_1MPCController.html#a920c30e92e9286c44948704929013180", null ],
+    [ "R_", "classrmp_1_1controller_1_1MPCController.html#af457ec969743d36753b40551f3ccc15c", null ],
+    [ "target_pt_pub_", "classrmp_1_1controller_1_1MPCController.html#ae2127f2a1c35dc3ad13bec20e307df36", null ],
+    [ "tf_", "classrmp_1_1controller_1_1MPCController.html#a12b8a49b2c65537479fd96d744a54e45", null ]
+];

@@ -1,0 +1,6 @@
+<map id="spencer_tracking_rviz_plugin::ProbabilityEllipseCovarianceVisual::calc_ellipse" name="spencer_tracking_rviz_plugin::ProbabilityEllipseCovarianceVisual::calc_ellipse">
+<area shape="rect" id="node1" title=" " alt="" coords="579,61,797,117"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1ProbabilityEllipseCovarianceVisual.html#a4c8abf7c8a4971891658a5534b5aa18c" title=" " alt="" coords="325,5,531,76"/>
+<area shape="rect" id="node3" href="$classspencer__tracking__rviz__plugin_1_1ProbabilityEllipseCovarianceVisual.html#a53b5b6f82806d403f4aaa2df128c86ea" title=" " alt="" coords="325,100,531,171"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1ProbabilityEllipseCovarianceVisual.html#a2bb69f4ee392aa640e3129d0635e8025" title="NOTE: It is assumed that the covariance matrix is already rotated into the target frame of the sceneN..." alt="" coords="5,107,277,163"/>
+</map>

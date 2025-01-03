@@ -1,0 +1,4 @@
+<map id="rmp::controller::RPPController::initialize" name="rmp::controller::RPPController::initialize">
+<area shape="rect" id="node1" title="Initialization of the local planner." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1RPPController.html#a27715226ebedb03621dcda0627869004" title="Construct a new RPP planner object." alt="" coords="5,5,220,47"/>
+</map>

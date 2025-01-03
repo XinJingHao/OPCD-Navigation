@@ -1,0 +1,4 @@
+<map id="rmp::controller::PIDController::PIDController" name="rmp::controller::PIDController::PIDController">
+<area shape="rect" id="node1" title="Construct a new PIDController object." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1PIDController.html#ae6ec0352376016ac1e4ea61c68e01f1d" title="Initialization of the local controller." alt="" coords="265,5,477,47"/>
+</map>

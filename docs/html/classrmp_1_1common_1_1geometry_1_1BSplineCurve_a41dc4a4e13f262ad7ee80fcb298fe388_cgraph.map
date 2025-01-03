@@ -1,0 +1,4 @@
+<map id="rmp::common::geometry::BSplineCurve::approximation" name="rmp::common::geometry::BSplineCurve::approximation">
+<area shape="rect" id="node1" title="Given a set of N data points, D0, D1, ..., Dn, a degree k, and a number H, where N &gt; H &gt; k &gt;= 1,..." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a0a1b275c3aa36c91692f217508fb887b" title="Calculate base function using Cox&#45;deBoor function." alt="" coords="273,5,484,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="src/core/controller/rpp_controller/include/controller/rpp_controller.h" name="src/core/controller/rpp_controller/include/controller/rpp_controller.h">
+<area shape="rect" id="node1" title=": Contains the regulated_pure_pursuit (RPP) local controller class" alt="" coords="176,5,371,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,191,240,218"/>
+<area shape="rect" id="node3" title=" " alt="" coords="231,109,315,136"/>
+<area shape="rect" id="node4" href="$controller_8h.html" title=": Contains the abstract Controller class" alt="" coords="364,109,527,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="265,191,343,218"/>
+<area shape="rect" id="node6" title=" " alt="" coords="368,184,523,225"/>
+<area shape="rect" id="node7" title=" " alt="" coords="547,184,723,225"/>
+<area shape="rect" id="node8" title=" " alt="" coords="747,191,880,218"/>
+<area shape="rect" id="node9" title=" " alt="" coords="904,191,1136,218"/>
+</map>

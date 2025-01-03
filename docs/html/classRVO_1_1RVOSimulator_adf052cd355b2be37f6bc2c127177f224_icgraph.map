@@ -1,0 +1,7 @@
+<map id="RVO::RVOSimulator::addAgent" name="RVO::RVOSimulator::addAgent">
+<area shape="rect" id="node1" title="Adds a new agent with default properties to the simulation." alt="" coords="829,39,987,80"/>
+<area shape="rect" id="node2" href="$classRVO_1_1RVOSimulator.html#a3d2f18b8ebd56b378ab769c46400c154" title="Adds a new agent to the simulation." alt="" coords="589,5,747,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1ORCAController.html#a2d1e2cf546b4ad61b49d5af6acf586e4" title=" " alt="" coords="555,71,781,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1ORCAController.html#a29444cd1d02ee3da0eb386e41ff8bfa2" title=" " alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1ORCAController.html#acb9dab5701598ee5cab0e4774eed5422" title=" " alt="" coords="5,71,232,112"/>
+</map>

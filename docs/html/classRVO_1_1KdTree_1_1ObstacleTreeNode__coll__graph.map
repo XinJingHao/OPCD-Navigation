@@ -1,0 +1,5 @@
+<map id="RVO::KdTree::ObstacleTreeNode" name="RVO::KdTree::ObstacleTreeNode">
+<area shape="rect" id="node1" title="Defines an obstacle k&#45;D tree node." alt="" coords="5,593,233,715"/>
+<area shape="rect" id="node2" href="$classRVO_1_1Obstacle.html" title="Defines static obstacles in the simulation." alt="" coords="62,395,177,531"/>
+<area shape="rect" id="node3" href="$classRVO_1_1Vector2.html" title="Defines a two&#45;dimensional vector." alt="" coords="57,5,181,317"/>
+</map>

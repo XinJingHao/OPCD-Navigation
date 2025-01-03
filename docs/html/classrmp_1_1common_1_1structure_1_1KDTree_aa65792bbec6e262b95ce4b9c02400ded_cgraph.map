@@ -1,0 +1,7 @@
+<map id="rmp::common::structure::KDTree::KDTree" name="rmp::common::structure::KDTree::KDTree">
+<area shape="rect" id="node1" title="Construct a new KDTree object." alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a49904376929246d974ac3613b639d43b" title="Re&#45;builds k&#45;d tree." alt="" coords="232,39,411,80"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a9cd6693ebe97b7966ed53894ee891344" title="Builds k&#45;d tree recursively." alt="" coords="459,5,645,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a99eb63f8c3f20fbe2b1ef4a5d67df506" title="Clear k&#45;d tree." alt="" coords="463,71,641,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#aca7becef5152d32a1c9775ea6d983aa5" title="Clears k&#45;d tree recursively." alt="" coords="693,71,880,112"/>
+</map>

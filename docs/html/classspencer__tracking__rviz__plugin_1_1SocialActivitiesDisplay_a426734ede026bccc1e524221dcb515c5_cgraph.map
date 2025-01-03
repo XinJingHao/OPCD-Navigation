@@ -1,0 +1,15 @@
+<map id="spencer_tracking_rviz_plugin::SocialActivitiesDisplay::onInitialize" name="spencer_tracking_rviz_plugin::SocialActivitiesDisplay::onInitialize">
+<area shape="rect" id="node1" title="Overrides base class method." alt="" coords="5,125,232,181"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1TrackedPersonsCache.html#aa9cbb19735a2e7f77e0b938b5156e365" title="Create TrackedPersons subscriber and setup RViz properties." alt="" coords="285,5,504,61"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#a9d97b2b63eed18542b1fe84179426656" title="Overrides base class method." alt="" coords="280,85,509,141"/>
+<area shape="rect" id="node5" href="$classspencer__tracking__rviz__plugin_1_1SocialActivitiesDisplay.html#aecf34edc8ef78f4eaa331870bd5c81c1" title=" " alt="" coords="281,165,508,221"/>
+<area shape="rect" id="node7" href="$classspencer__tracking__rviz__plugin_1_1SocialActivitiesDisplay.html#a45620ea65d6bcdee740de97d7b5e0190" title=" " alt="" coords="563,231,790,287"/>
+<area shape="rect" id="node3" href="$classspencer__tracking__rviz__plugin_1_1TrackedPersonsCache.html#a6d07ce1e5398a6ab88b3030b3341495a" title=" " alt="" coords="557,5,796,61"/>
+<area shape="rect" id="node6" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#abdd5cd4537e4a1c9ea066b5ba6f74299" title="Create a visual representation of the person itself, if not set yet." alt="" coords="562,121,791,207"/>
+<area shape="rect" id="node8" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#aae9efc5ce99f730a6687c1a2bc0cb74a" title="Applies common styles which apply to person visuals, such as line width etc." alt="" coords="851,136,1081,221"/>
+<area shape="rect" id="node9" href="$classspencer__tracking__rviz__plugin_1_1SocialActivitiesDisplay.html#a0b2ea06ce249b971ef61f1a75b7c1a83" title=" " alt="" coords="1136,231,1363,287"/>
+<area shape="rect" id="node11" href="$classspencer__tracking__rviz__plugin_1_1SocialActivitiesDisplay.html#a947abae8cb41dd8566e77718d6ecef78" title=" " alt="" coords="844,296,1088,352"/>
+<area shape="rect" id="node10" href="$classspencer__tracking__rviz__plugin_1_1SocialActivitiesDisplay.html#af8e01b7dfcd9f4e2865732c5ee9939d1" title=" " alt="" coords="1411,264,1637,320"/>
+<area shape="rect" id="node12" href="$classspencer__tracking__rviz__plugin_1_1TrackedPersonsCache.html#a717cab72284f72a6401f5657065eaaad" title="Lookup information for the given tracked person ID. Returns a null pointer if no information is avail..." alt="" coords="1140,361,1359,417"/>
+<area shape="rect" id="node13" href="$social__activities__display_8cpp.html#aab04a6236c332cd7f7e1cee9e4617bd0" title=" " alt="" coords="1183,441,1316,468"/>
+</map>

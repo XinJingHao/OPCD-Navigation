@@ -1,0 +1,12 @@
+<map id="src/core/controller/lqr_controller/include/controller/lqr_controller.h" name="src/core/controller/lqr_controller/include/controller/lqr_controller.h">
+<area shape="rect" id="node1" title=": Contains the linear quadratic regulator (LQR) local controller class" alt="" coords="166,5,357,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,191,240,218"/>
+<area shape="rect" id="node3" title=" " alt="" coords="161,109,245,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="269,109,371,136"/>
+<area shape="rect" id="node5" href="$controller_8h.html" title=": Contains the abstract Controller class" alt="" coords="396,109,559,136"/>
+<area shape="rect" id="node6" title=" " alt="" coords="265,191,343,218"/>
+<area shape="rect" id="node7" title=" " alt="" coords="368,184,523,225"/>
+<area shape="rect" id="node8" title=" " alt="" coords="547,184,723,225"/>
+<area shape="rect" id="node9" title=" " alt="" coords="747,191,880,218"/>
+<area shape="rect" id="node10" title=" " alt="" coords="904,191,1136,218"/>
+</map>

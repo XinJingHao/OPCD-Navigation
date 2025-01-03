@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/devel
+
+Name: apf_controller
+Description: Description of apf_controller
+Version: 0.0.0
+Cflags: -I/home/xjh/ros_motion_planning/src/core/controller/apf_controller/include
+Libs: -L${prefix}/lib 
+Requires: controller

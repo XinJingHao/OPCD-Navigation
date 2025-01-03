@@ -1,0 +1,17 @@
+<map id="rmp::path_planner::VoronoiPathPlanner::plan" name="rmp::path_planner::VoronoiPathPlanner::plan">
+<area shape="rect" id="node1" title="Voronoi&#45;based planning implementation." alt="" coords="5,278,192,319"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1VoronoiPathPlanner.html#aa4df5e0372c9184bf99a5b95e801e8bd" title="update voronoi object using costmap ROS wrapper" alt="" coords="269,5,427,61"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#aea5903f030bc4ab69c2399913665688b" title="returns the obstacle distance at the specified location" alt="" coords="240,85,456,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="519,33,697,74"/>
+<area shape="rect" id="node5" href="$classDynamicVoronoi.html#a011a0a727789aa7e88c0765d278ace05" title="returns whether the specified cell is part of the (pruned) Voronoi graph" alt="" coords="249,419,447,445"/>
+<area shape="rect" id="node6" href="$classrmp_1_1path__planner_1_1VoronoiPathPlanner.html#aa2e9ea820c7cc323a476eb1b5dfdb0a2" title="search the shortest path from start to VD, or search the shortest path in VD" alt="" coords="261,237,435,293"/>
+<area shape="rect" id="node8" href="$classrmp_1_1common_1_1structure_1_1Node.html#a82b7807efcf6131950d9396e4cd5f0f5" title=" " alt="" coords="519,98,697,139"/>
+<area shape="rect" id="node11" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="519,375,697,417"/>
+<area shape="rect" id="node12" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="519,441,697,482"/>
+<area shape="rect" id="node13" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#ae3dc1d2e3c05ed4153cef390a29b66e2" title=" " alt="" coords="256,470,440,511"/>
+<area shape="rect" id="node14" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a016742e51916837f5a107afcd1a9568c" title=" " alt="" coords="256,535,440,577"/>
+<area shape="rect" id="node7" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a4f6d63988b1fdbfdd431e8bf8c697e72" title="Convert closed list to path." alt="" coords="504,164,712,220"/>
+<area shape="rect" id="node9" href="$classrmp_1_1common_1_1structure_1_1Node.html#ab9d892f8cd362fed29f47d932e633d5f" title="set the property of node" alt="" coords="519,245,697,286"/>
+<area shape="rect" id="node10" href="$classrmp_1_1common_1_1structure_1_1Node.html#a8e305be9447f6b24755af85e27b0c5ba" title=" " alt="" coords="519,310,697,351"/>
+<area shape="rect" id="node15" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#aaad3d454aa263b29691cb58d353954ad" title=" " alt="" coords="516,535,700,577"/>
+</map>

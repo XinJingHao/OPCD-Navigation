@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/install
+
+Name: spencer_tracking_rviz_plugin
+Description: Description of spencer_tracking_rviz_plugin
+Version: 1.0.8
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

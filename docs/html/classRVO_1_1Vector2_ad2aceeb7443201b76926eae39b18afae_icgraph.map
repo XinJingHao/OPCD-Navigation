@@ -1,0 +1,7 @@
+<map id="RVO::Vector2::Vector2" name="RVO::Vector2::Vector2">
+<area shape="rect" id="node1" title="Constructs and initializes a two&#45;dimensional vector instance to (0.0, 0.0)." alt="" coords="236,81,403,108"/>
+<area shape="rect" id="node2" href="$classRVO_1_1Vector2.html#ac75e115776a19b915f3d645c923f6910" title="Computes the scalar multiplication of this two&#45;dimensional vector with the specified scalar value." alt="" coords="7,5,186,32"/>
+<area shape="rect" id="node3" href="$classRVO_1_1Vector2.html#a1f9b843d7a9728b694b5d65741f0247c" title="Computes the vector sum of this two&#45;dimensional vector with the specified two&#45;dimensional vector." alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node4" href="$classRVO_1_1Vector2.html#a476ec617d0fbbb061bd427c514a8b66e" title="Computes the negation of this two&#45;dimensional vector." alt="" coords="9,107,184,133"/>
+<area shape="rect" id="node5" href="$classRVO_1_1Vector2.html#ac1c172eab39cf6bd58d2678e9f698091" title="Computes the scalar division of this two&#45;dimensional vector with the specified scalar value." alt="" coords="9,157,184,184"/>
+</map>

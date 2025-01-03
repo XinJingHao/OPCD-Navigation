@@ -1,0 +1,4 @@
+<map id="rmp::path_planner::DStarPathPlanner" name="rmp::path_planner::DStarPathPlanner">
+<area shape="rect" id="node1" title="Class for objects that plan using the D* algorithm." alt="" coords="29,365,208,721"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PathPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,5,232,317"/>
+</map>

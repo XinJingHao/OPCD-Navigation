@@ -1,0 +1,8 @@
+<map id="costmap_2d::VoronoiLayer" name="costmap_2d::VoronoiLayer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1305,200,1573"/>
+<area shape="rect" id="node2" title=" " alt="" coords="52,865,111,942"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html" title="A DynamicVoronoi object computes and updates a distance map and Voronoi diagram." alt="" coords="135,564,422,1243"/>
+<area shape="rect" id="node4" href="$structDynamicVoronoi_1_1dataCell.html" title=" " alt="" coords="108,299,300,465"/>
+<area shape="rect" id="node5" href="$classBucketPrioQueue.html" title=" " alt="" coords="325,277,550,487"/>
+<area shape="rect" id="node6" href="$classBucketPrioQueue.html" title="Priority queue for integer coordinates with squared distances as priority." alt="" coords="352,5,523,215"/>
+</map>

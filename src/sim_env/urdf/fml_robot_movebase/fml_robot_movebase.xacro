@@ -1,0 +1,19 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+
+    <!--包含惯性矩阵文件-->
+    <xacro:include filename="head.xacro" />
+
+    <!--包含底盘、雷达外形的xacro文件-->
+    <xacro:include filename="car_base.xacro" />
+    <xacro:include filename="car_laser.xacro" />
+
+    <!--运动控制-->
+    <xacro:include filename="gazebo/move.xacro" />
+
+    <!--雷达传感器-->
+    <xacro:include filename="gazebo/laser.xacro" />
+    
+    <!--imu-->
+    <xacro:include filename="gazebo/imu.xacro" />
+
+</robot>

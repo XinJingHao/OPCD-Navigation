@@ -1,0 +1,9 @@
+<map id="rmp::path_planner::VoronoiPathPlanner" name="rmp::path_planner::VoronoiPathPlanner">
+<area shape="rect" id="node1" title="Class for objects that plan using the Voronoi&#45;based planning algorithm." alt="" coords="237,1305,435,1471"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PathPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,747,232,1059"/>
+<area shape="rect" id="node3" href="$structrmp_1_1path__planner_1_1VoronoiPathPlanner_1_1VoronoiData.html" title=" " alt="" coords="257,843,415,964"/>
+<area shape="rect" id="node4" href="$classDynamicVoronoi.html" title="A DynamicVoronoi object computes and updates a distance map and Voronoi diagram." alt="" coords="439,564,726,1243"/>
+<area shape="rect" id="node5" href="$structDynamicVoronoi_1_1dataCell.html" title=" " alt="" coords="412,299,604,465"/>
+<area shape="rect" id="node6" href="$classBucketPrioQueue.html" title=" " alt="" coords="629,277,854,487"/>
+<area shape="rect" id="node7" href="$classBucketPrioQueue.html" title="Priority queue for integer coordinates with squared distances as priority." alt="" coords="656,5,827,215"/>
+</map>

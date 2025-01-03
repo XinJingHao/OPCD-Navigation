@@ -1,0 +1,97 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+    <!--添加雷达-->
+    <xacro:property name="support_radius" value="0.035" />
+    <xacro:property name="support_length" value="0.035" />
+    <xacro:property name="support_mass" value="0.02" />
+    <!--support_joint_z=车体高度/2+支架高度/2-->
+    <xacro:property name="support_joint_z" value="${base_length/2+support_length/2}" />
+    
+    <xacro:property name="laser_radius" value="0.02" />
+    <xacro:property name="laser_length" value="0.035" />
+    <xacro:property name="laser_mass" value="0.02" />
+    <!--laser_joint_z=支架高度/2+雷达高度/2-->
+    <xacro:property name="laser_joint_z" value="${support_length/2+laser_length/2}" />
+
+    <!--1.支架-->
+    <link name="support">
+        <visual>
+            <geometry>
+                <cylinder radius="${support_radius}" length="${support_length}" />
+            </geometry>
+            <material name="support_color">
+                <color rgba="0 0 0 1" />
+            </material>
+        </visual>
+        <collision>
+            <geometry>
+                <cylinder radius="${support_radius}" length="${support_length}" />
+            </geometry>
+        </collision>
+        <!--调用惯性矩阵函数-->
+        <xacro:cylinder_inertial_matrix m="${support_mass}" r="${support_radius}" h="${support_length}" />
+    </link>
+
+    <!--gazebo需要单独设置颜色-->
+    <gazebo reference="support">
+        <material>Gazebo/Black</material>
+    </gazebo>
+
+    <joint name="support2base" type="fixed">
+        <parent link="base_link" />
+        <child link="support" />
+        <origin xyz="0 0 ${support_joint_z}" rpy="0 0 0" />
+    </joint>
+
+
+    <!--2.雷达发射位置: 可以比实际可视化位置高一些（扫腰，不扫腿） -->
+    <link name="laser">
+        <visual>
+            <geometry>
+                <sphere radius="${footprint_radius}" />
+            </geometry>
+            <material name="laser_color">
+                <color rgba="1 0.5 0.3 1" />
+            </material>
+        </visual>
+    </link>
+    <joint name="laser2basefootprint" type="fixed">
+        <parent link="base_footprint" />
+        <child link="laser" />
+        <origin xyz="0 0 0.12" rpy="0 0 0" />
+    </joint>
+
+
+
+    <!--3.雷达圆柱体可视化位置-->
+    <link name="laser_link">
+        <visual>
+            <geometry>
+                <cylinder radius="${laser_radius}" length="${laser_length}" />
+            </geometry>
+            <material name="laser_link_color">
+                <color rgba="1 0.5 0.3 1" />
+            </material>
+        </visual>
+        <collision>
+            <geometry>
+                <cylinder radius="${laser_radius}" length="${laser_length}" />
+            </geometry>
+        </collision>
+        <!--调用惯性矩阵函数-->
+        <xacro:cylinder_inertial_matrix m="${laser_mass}" r="${laser_radius}" h="${laser_length}" />
+    </link>
+
+    <!--gazebo需要单独设置颜色-->
+    <gazebo reference="laser_link">
+        <material>Gazebo/Orange</material>
+    </gazebo>
+
+    <joint name="laser_link2support" type="fixed">
+        <parent link="support" />
+        <child link="laser_link" />
+        <origin xyz="0 0 ${laser_joint_z}" rpy="0 0 0" />
+    </joint>
+
+
+
+</robot>

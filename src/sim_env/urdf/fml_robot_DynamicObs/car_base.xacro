@@ -1,0 +1,180 @@
+<robot name="mycar" xmlns:xacro="http://wiki.ros.org/xacro">
+    <!-- 飞马旅圆形两轮差速AGV -->
+
+    <!--1.添加base_footprint-->
+    <xacro:property name="footprint_radius" value="0.001" />
+    
+    <link name="base_footprint">
+        <visual>
+            <geometry>
+                <sphere radius="${footprint_radius}" />
+            </geometry>
+        </visual>
+    </link>
+
+
+
+    <!--2.添加底盘base_link-->
+    <!--形状：圆柱体 半径：0.09m; 高度：0.85m; 质量50kg; 离地距离：0.07m-->
+    <!--跟实际AGV略有不同：高度减了一些，补偿到lidi，防止轮胎和地盘重合。-->
+    <xacro:property name="base_radius" value="0.14" />
+    <xacro:property name="base_mass" value="20" />  <!-- 太轻会导致转弯抖动 -->
+    <xacro:property name="base_length" value="0.085" />
+    <xacro:property name="lidi" value="0.07" /> 
+    <!-- <xacro:property name="base_length" value="0.135" /> -->
+    <!-- <xacro:property name="lidi" value="0.02" />  -->
+    <xacro:property name="base_joint_z" value="${base_length/2+lidi}" />
+
+
+    <!--2.1 link-->
+    <link name="base_link">
+        <visual>
+            <geometry>
+                <cylinder radius="${base_radius}" length="${base_length}" />
+            </geometry>
+
+            <origin xyz="0 0 0" rpy="0 0 0" />
+
+            <material name="baselink_color">
+                <color rgba="0.0 0.4 0.7 1" />
+            </material>
+        </visual>
+
+        <collision>
+            <geometry>
+                <cylinder radius="${base_radius}" length="${base_length}" />
+            </geometry>
+
+            <origin xyz="0 0 0" rpy="0 0 0" />
+        </collision>
+        <!--调用惯性矩阵函数,包含在head.xacro中-->
+        <xacro:cylinder_inertial_matrix m="${base_mass}" r="${base_radius}" h="${base_length}" />
+    </link>
+
+    <!--gazebo需要单独设置颜色-->
+    <gazebo reference="base_link">
+        <material>
+            Gazebo/Blue
+        </material>
+    </gazebo>
+    
+    <!--2.2 joint-->
+    <joint name="link2footprint" type="fixed">
+        <parent link="base_footprint" />
+        <child link="base_link" />
+        <origin xyz="0 0 ${base_joint_z}" rpy="0 0 0" />
+    </joint>
+
+
+
+    <!--3.添加左右驱动轮-->
+    <!--形状：圆柱 半径：0.033m 长度：0.023m; 质量6kg(质量不要改，会影响PID控制性能，现在是K=0.6的状态)-->
+    <xacro:property name="wheel_radius" value="0.033" />
+    <xacro:property name="wheel_length" value="0.02" /> <!-- 实际0.023,搞小一点，防止原地掉头摩擦抖动 -->
+    <xacro:property name="wheel_mass" value="6" />
+    <xacro:property name="PI" value="3.14159265359" />
+    <!--y轴上的偏移量=车体半径-车轮长度/2  -->
+    <xacro:property name="wheel_joint_y" value="${base_radius-wheel_length/2}" />
+    <xacro:property name="wheel_joint_z" value="${-1*(base_joint_z - wheel_radius)}" />
+    <!--
+        wheel_name:left right
+        flag:left==>1 right==>-1
+    -->
+    <xacro:macro name="wheel_func" params="wheel_name flag">
+        <!--3.1 link-->
+        <link name="${wheel_name}_wheel">
+            <visual>
+                <geometry>
+                    <cylinder radius="${wheel_radius}" length="${wheel_length}" />
+                </geometry>
+                <!--  车轮需要竖起来，即沿着x轴旋转PI/2  -->
+                <origin xyz="0 0 0" rpy="${PI/2} 0 0" />
+
+                <material name="wheel_color">
+                    <color rgba="0.1 0.1 0.1 1" />
+                </material>
+            </visual>
+            <collision>
+                <geometry>
+                    <cylinder radius="${wheel_radius}" length="${wheel_length}" />
+                </geometry>
+
+                <origin xyz="0 0 0" rpy="${PI/2} 0 0" />
+            </collision>
+
+            <!--调用惯性矩阵函数-->
+            <xacro:cylinder_inertial_matrix m="${wheel_mass}" r="${wheel_radius}" h="${wheel_length}" />
+        </link>
+
+        <!--gazebo需要单独设置颜色-->
+        <gazebo reference="${wheel_name}_wheel">
+            <material>Gazebo/Black</material>
+        </gazebo>
+
+        <!--3.2 joint-->
+        <joint name="${wheel_name}2link" type="continuous">
+            <parent link="base_link" />
+            <child link="${wheel_name}_wheel" />
+            <origin xyz="0 ${wheel_joint_y*flag} ${wheel_joint_z}" rpy="0 0 0" />
+            <!--轮子沿着y轴转-->
+            <axis xyz="0 1 0" />
+        </joint>
+
+    </xacro:macro>
+    <!--调用宏，生成左右两侧驱动轮-->
+    <xacro:wheel_func wheel_name="left" flag="1" />
+    <xacro:wheel_func wheel_name="right" flag="-1" />
+
+    <!--4.添加万向轮-->
+    <!--形状：球 半径：0.0075m-->
+    <xacro:property name="small_wheel_radius" value="0.0075" />
+    <xacro:property name="small_wheel_mass" value="0.25" />
+    <xacro:property name="small_joint_x" value="${0.8*base_radius}" />
+    <xacro:property name="small_joint_z" value="${-1*(base_joint_z-small_wheel_radius)}" />
+
+    <xacro:macro name="small_wheel_func" params="small_wheel_name flag">
+        <!--4.1 link-->
+        <link name="${small_wheel_name}_wheel">
+            <visual>
+                <geometry>
+                    <sphere radius="${small_wheel_radius}" />
+                </geometry>
+
+                <origin xyz="0 0 0" rpy="0 0 0" />
+
+                <material name="wheel_color">
+                    <color rgba="0.1 0.1 0.1 1" />
+                </material>
+            </visual>
+
+            <collision>
+                <geometry>
+                    <sphere radius="${small_wheel_radius}" />
+                </geometry>
+
+                <origin xyz="0 0 0" rpy="0 0 0" />
+            </collision>
+
+            <!--调用惯性矩阵函数-->
+            <xacro:sphere_inertial_matrix m="${small_wheel_mass}" r="${small_wheel_radius}"/>
+        </link>
+
+        <!--gazebo需要单独设置颜色-->
+        <gazebo reference="${small_wheel_name}_wheel">
+            <material>Gazebo/Black</material>
+        </gazebo>
+
+        <!--4.2 joint-->
+        <joint name="${small_wheel_name}2link" type="continuous">
+            <parent link="base_link" />
+            <child link="${small_wheel_name}_wheel" />
+            <origin xyz="${small_joint_x*flag} 0 ${small_joint_z}" rpy="0 0 0" />
+            <!--轮子沿着y轴转-->
+            <axis xyz="0 1 0" />
+        </joint>
+    </xacro:macro>
+
+    <xacro:small_wheel_func small_wheel_name="front" flag="1" />
+    <xacro:small_wheel_func small_wheel_name="back" flag="-1" />
+
+</robot>

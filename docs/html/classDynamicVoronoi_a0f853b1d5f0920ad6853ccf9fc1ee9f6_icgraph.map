@@ -1,0 +1,4 @@
+<map id="DynamicVoronoi::initializeEmpty" name="DynamicVoronoi::initializeEmpty">
+<area shape="rect" id="node1" title="Initialization with an empty map." alt="" coords="276,5,471,47"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#ae4650e19a4754f476508dafb08ff8fed" title="Initialization with a given binary map (false==free, true==occupied)" alt="" coords="5,13,228,39"/>
+</map>

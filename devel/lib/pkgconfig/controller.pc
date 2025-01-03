@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/devel
+
+Name: controller
+Description: Description of controller
+Version: 0.0.0
+Cflags: -I/home/xjh/ros_motion_planning/src/core/controller/controller/include
+Libs: -L${prefix}/lib -lcontroller
+Requires: common

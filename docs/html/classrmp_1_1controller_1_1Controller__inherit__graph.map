@@ -1,0 +1,9 @@
+<map id="rmp::controller::Controller" name="rmp::controller::Controller">
+<area shape="rect" id="node1" title=" " alt="" coords="658,5,855,552"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1APFController.html" title="A class implementing a local controller using the APF." alt="" coords="5,600,236,1147"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1LQRController.html" title="A class implementing a local planner using the LQR." alt="" coords="260,695,491,1051"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1MPCController.html" title="A class implementing a local planner using the MPC." alt="" coords="515,688,745,1059"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1ORCAController.html" title=" " alt="" coords="769,644,1000,1103"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1PIDController.html" title="A class implementing a local controller using the PID." alt="" coords="1024,629,1255,1117"/>
+<area shape="rect" id="node7" href="$classrmp_1_1controller_1_1RPPController.html" title="A class implementing a local planner using the RPP." alt="" coords="1279,659,1509,1088"/>
+</map>

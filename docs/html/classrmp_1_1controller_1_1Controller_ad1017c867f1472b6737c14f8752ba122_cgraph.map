@@ -1,0 +1,4 @@
+<map id="rmp::controller::Controller::getLookAheadDistance" name="rmp::controller::Controller::getLookAheadDistance">
+<area shape="rect" id="node1" title="Calculate the look&#45;ahead distance with current speed dynamically." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$namespacermp_1_1common_1_1math.html#a4f81da967a5afadd3bf33c2d57135741" title="Clamp a value between two bounds. If the value goes beyond the bounds, return one of the bounds,..." alt="" coords="244,5,407,47"/>
+</map>

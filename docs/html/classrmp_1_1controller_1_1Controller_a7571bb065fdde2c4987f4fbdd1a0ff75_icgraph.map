@@ -1,0 +1,9 @@
+<map id="rmp::controller::Controller::linearRegularization" name="rmp::controller::Controller::linearRegularization">
+<area shape="rect" id="node1" title="linear velocity regularization" alt="" coords="280,169,471,211"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1ORCAController.html#ab62a55ddeda7e0f5ecd824f94fc35014" title=" " alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1RPPController.html#a3f1b3b0402f0d773a1df7f0d1ed6dfec" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="11,71,226,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1MPCController.html#a267d55c75fe3983794d0cfda1f0c6c87" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="9,136,228,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1LQRController.html#a2b25fa968a8ac2a1ada5c8a13513ac27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="11,201,227,243"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1PIDController.html#a12611fa9a6ce080153909ad504e608a6" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="11,267,226,308"/>
+<area shape="rect" id="node7" href="$classrmp_1_1controller_1_1APFController.html#a2e08c45d50f87ec6dc5f6db7e4724071" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="11,332,226,373"/>
+</map>

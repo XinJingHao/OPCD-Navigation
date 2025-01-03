@@ -1,0 +1,5 @@
+<map id="rmp::common::structure::KDTree::BoundedPriorityQueue::size" name="rmp::common::structure::KDTree::BoundedPriorityQueue::size">
+<area shape="rect" id="node1" title="Get size of the queue." alt="" coords="503,35,767,76"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a4f1e60bd6af57eb8f9d786bbbcfea217" title="Searches k&#45;nearest neighbors recursively." alt="" coords="232,5,455,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a4909d87ad86704b06f6397e77056f812" title="Searches k&#45;nearest neighbors." alt="" coords="5,35,184,76"/>
+</map>

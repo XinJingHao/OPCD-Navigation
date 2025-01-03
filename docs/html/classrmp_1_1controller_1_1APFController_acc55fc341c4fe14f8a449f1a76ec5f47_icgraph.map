@@ -1,0 +1,4 @@
+<map id="rmp::controller::APFController::getRepulsiveForce" name="rmp::controller::APFController::getRepulsiveForce">
+<area shape="rect" id="node1" title="Get the repulsive force of APF." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1APFController.html#a2e08c45d50f87ec6dc5f6db7e4724071" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+</map>

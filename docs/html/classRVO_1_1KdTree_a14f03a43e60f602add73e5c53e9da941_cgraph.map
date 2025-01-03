@@ -1,0 +1,4 @@
+<map id="RVO::KdTree::~KdTree" name="RVO::KdTree::~KdTree">
+<area shape="rect" id="node1" title="Destroys this k&#45;D tree instance." alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree.html#a044c3084407a383683342a982f91618d" title="Deletes the specified obstacle tree node." alt="" coords="219,5,453,32"/>
+</map>

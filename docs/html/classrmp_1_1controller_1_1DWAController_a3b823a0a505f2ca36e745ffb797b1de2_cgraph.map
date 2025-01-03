@@ -1,0 +1,8 @@
+<map id="rmp::controller::DWAController::computeVelocityCommands" name="rmp::controller::DWAController::computeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="5,100,228,141"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1DWA.html#aab362fdd512fe7bf4afa672299f4e28c" title="Check if a trajectory is legal for a position/velocity pair." alt="" coords="318,5,477,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1DWAController.html#a0005bf1e785ac1694ff6fbba527d37d7" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="276,71,519,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1controller_1_1DWAController.html#a94c19b9956f75ee3dd813bb5a24fd933" title=" " alt="" coords="567,129,789,171"/>
+<area shape="rect" id="node6" href="$classrmp_1_1controller_1_1DWAController.html#a25f3e43e7f5d3d747a59c508028d16e0" title=" " alt="" coords="286,188,509,229"/>
+<area shape="rect" id="node4" href="$classrmp_1_1controller_1_1DWAController.html#a795e8e0bc2ae02373a9c733ec01988b5" title=" " alt="" coords="567,64,789,105"/>
+</map>

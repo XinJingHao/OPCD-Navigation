@@ -1,0 +1,5 @@
+<map id="rmp::common::geometry::Vec2d::operator+=" name="rmp::common::geometry::Vec2d::operator+=">
+<area shape="rect" id="node1" title="Sums another Vec2d to the current one." alt="" coords="5,39,189,80"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#adf0c9b6ec12d9c20e54a123721a5b104" title="Getter for x component." alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a384516583e5ac4cefe86ecd37e33fe86" title="Getter for y component." alt="" coords="237,71,421,112"/>
+</map>

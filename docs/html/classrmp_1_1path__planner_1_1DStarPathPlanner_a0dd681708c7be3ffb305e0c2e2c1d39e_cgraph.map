@@ -1,0 +1,10 @@
+<map id="rmp::path_planner::DStarPathPlanner::modify" name="rmp::path_planner::DStarPathPlanner::modify">
+<area shape="rect" id="node1" title="Modify the map when collision occur between x and y in path, and then do processState()" alt="" coords="5,156,196,197"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1DStarPathPlanner.html#abde2e18f353a1e080fe7b2a68727b596" title="Insert nodePtr into the open_list with h_new." alt="" coords="244,156,425,197"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1Node.html#ac02ec547b8e7a6df02b0101df874d608" title=" " alt="" coords="497,5,675,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1path__planner_1_1DStarPathPlanner_1_1DNode.html#a98b3c5649953742707cda31c5f20d903" title=" " alt="" coords="747,127,951,168"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9a2fafd5790b9451b633f6eed96efe6f" title=" " alt="" coords="497,123,675,164"/>
+<area shape="rect" id="node6" href="$classrmp_1_1path__planner_1_1DStarPathPlanner_1_1DNode.html#aec37dbec7de476ecea9faebb4b79e0f3" title=" " alt="" coords="473,188,699,229"/>
+<area shape="rect" id="node7" href="$classrmp_1_1path__planner_1_1DStarPathPlanner_1_1DNode.html#a63fac49d58932faf099a4837e160ea5f" title=" " alt="" coords="492,254,680,310"/>
+<area shape="rect" id="node8" href="$classrmp_1_1path__planner_1_1DStarPathPlanner_1_1DNode.html#a8a8d88cd9de96d423c8eda5b0d0fdc27" title=" " alt="" coords="748,293,949,335"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="rmp::path_planner::PSOPathPlanner::plan" name="rmp::path_planner::PSOPathPlanner::plan">
+<area shape="rect" id="node1" title="PSO implementation." alt="" coords="5,298,168,339"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#a4090ccb301d5715fdb0b75b77563ee2d" title="Calculate the value of fitness function." alt="" coords="519,166,717,222"/>
+<area shape="rect" id="node4" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#ae3b24b013bc273c421c72d5871facdb6" title="Generate n particles with pointNum_ positions each within the map range." alt="" coords="241,61,431,117"/>
+<area shape="rect" id="node7" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#a3cdc42bff678fdd3e743068bd93048fb" title="Particle update optimization iteration." alt="" coords="216,232,456,274"/>
+<area shape="rect" id="node11" href="$classrmp_1_1common_1_1geometry_1_1Point2__.html#a5302f86078266d12de56fcb7cbca609d" title=" " alt="" coords="244,298,428,339"/>
+<area shape="rect" id="node12" href="$classrmp_1_1common_1_1geometry_1_1Point2__.html#acd9847163b7e91d6b688040c418b4f2e" title=" " alt="" coords="244,363,428,404"/>
+<area shape="rect" id="node13" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#ae3dc1d2e3c05ed4153cef390a29b66e2" title=" " alt="" coords="526,411,710,452"/>
+<area shape="rect" id="node14" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#a016742e51916837f5a107afcd1a9568c" title=" " alt="" coords="244,480,428,522"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="780,75,957,116"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1geometry_1_1Point2__.html#ae817d6460722b1d32e48b97c1eac9a6f" title=" " alt="" coords="526,35,710,76"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1geometry_1_1Point2__.html#a5ee300fdae5e9d63d72bc67f1f1c8e57" title=" " alt="" coords="526,100,710,142"/>
+<area shape="rect" id="node8" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#af617812197bb8cc06a741a8cb1789d43" title="A function to update the particle position." alt="" coords="504,246,732,302"/>
+<area shape="rect" id="node10" href="$classrmp_1_1path__planner_1_1PSOPathPlanner.html#a0eab3d2962fd97979685c6ea57192103" title="A function to update the particle velocity." alt="" coords="504,326,732,382"/>
+<area shape="rect" id="node9" href="$namespacermp_1_1common_1_1math.html#a4f81da967a5afadd3bf33c2d57135741" title="Clamp a value between two bounds. If the value goes beyond the bounds, return one of the bounds,..." alt="" coords="787,294,950,335"/>
+<area shape="rect" id="node15" href="$classrmp_1_1common_1_1geometry_1_1Point3__.html#aaad3d454aa263b29691cb58d353954ad" title=" " alt="" coords="526,480,710,522"/>
+</map>

@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/devel
+
+Name: spencer_human_attribute_msgs
+Description: Description of spencer_human_attribute_msgs
+Version: 1.0.8
+Cflags: -I/home/xjh/ros_motion_planning/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

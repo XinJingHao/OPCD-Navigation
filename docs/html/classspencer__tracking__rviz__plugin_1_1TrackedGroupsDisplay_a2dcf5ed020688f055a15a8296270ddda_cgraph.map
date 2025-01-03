@@ -1,0 +1,6 @@
+<map id="spencer_tracking_rviz_plugin::TrackedGroupsDisplay::updateGroupVisualStyles" name="spencer_tracking_rviz_plugin::TrackedGroupsDisplay::updateGroupVisualStyles">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,228,163"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#aae9efc5ce99f730a6687c1a2bc0cb74a" title="Applies common styles which apply to person visuals, such as line width etc." alt="" coords="276,5,571,76"/>
+<area shape="rect" id="node3" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#abd16abe4a0cbbc7b82bc8868a3fcc8b6" title="Get a color based upon track / detection ID." alt="" coords="276,100,571,171"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1TrackedGroupsDisplay.html#a45e63404a9b635911a157d07f2fb3824" title=" " alt="" coords="312,195,535,251"/>
+</map>

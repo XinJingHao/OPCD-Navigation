@@ -1,0 +1,4 @@
+<map id="rmp::controller::APFController::setPlan" name="rmp::controller::APFController::setPlan">
+<area shape="rect" id="node1" title="Set the plan that the controller is following." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1Controller.html#a3f16b7941be917dd44b526af5912f273" title="Get the Yaw Angles from PoseStamped." alt="" coords="268,5,459,47"/>
+</map>

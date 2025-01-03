@@ -1,0 +1,8 @@
+<map id="rmp::common::structure::KDTree::knnSearch" name="rmp::common::structure::KDTree::knnSearch">
+<area shape="rect" id="node1" title="Searches k&#45;nearest neighbors." alt="" coords="5,168,184,209"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a4f1e60bd6af57eb8f9d786bbbcfea217" title="Searches k&#45;nearest neighbors recursively." alt="" coords="232,136,455,177"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1KDTree_1_1BoundedPriorityQueue.html#a2f62e10dcdef5c5825952e3719182fc2" title="Get size of the queue." alt="" coords="505,201,769,243"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1structure_1_1KDTree.html#a179cc1dbdf1deee98896fe11eda6093f" title="Calculate the distance between kd node p and q." alt="" coords="548,5,727,47"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1KDTree_1_1BoundedPriorityQueue.html#a106d7080d841abd7c1e6205a424b0b5a" title="Get back value." alt="" coords="503,71,772,112"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1KDTree_1_1BoundedPriorityQueue.html#ac9d97d7c0ffdbae67045c27846c8d8ae" title="Push value." alt="" coords="503,136,772,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="rmp::controller::LQRController::_lqrControl" name="rmp::controller::LQRController::_lqrControl">
+<area shape="rect" id="node1" title="Execute LQR control process." alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1LQRController.html#a2b25fa968a8ac2a1ada5c8a13513ac27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,221,47"/>
+</map>

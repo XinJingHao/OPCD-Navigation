@@ -1,0 +1,4 @@
+<map id="gazebo::PedestrianVisualPlugin::OnUpdate" name="gazebo::PedestrianVisualPlugin::OnUpdate">
+<area shape="rect" id="node1" title="Function that is called every update cycle." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classgazebo_1_1PedestrianVisualPlugin.html#af63d31fc526a3fdf1394d1621848ef1f" title="Publish pedestrians visualization information." alt="" coords="240,5,428,47"/>
+</map>

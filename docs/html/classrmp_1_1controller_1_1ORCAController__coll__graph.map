@@ -1,0 +1,11 @@
+<map id="rmp::controller::ORCAController" name="rmp::controller::ORCAController">
+<area shape="rect" id="node1" title=" " alt="" coords="219,1716,449,2145"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,1202,143,1279"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1Controller.html" title=" " alt="" coords="167,967,365,1514"/>
+<area shape="rect" id="node4" href="$classRVO_1_1RVOSimulator.html" title="Defines the simulation. The main class of the library that contains all simulation functionality." alt="" coords="439,828,699,1653"/>
+<area shape="rect" id="node5" href="$classRVO_1_1KdTree.html" title="Defines k&#45;D trees for agents and static obstacles in the simulation." alt="" coords="565,1782,791,2079"/>
+<area shape="rect" id="node6" href="$classRVO_1_1KdTree_1_1ObstacleTreeNode.html" title="Defines an obstacle k&#45;D tree node." alt="" coords="723,1180,951,1301"/>
+<area shape="rect" id="node7" href="$classRVO_1_1Obstacle.html" title="Defines static obstacles in the simulation." alt="" coords="734,527,849,663"/>
+<area shape="rect" id="node8" href="$classRVO_1_1Vector2.html" title="Defines a two&#45;dimensional vector." alt="" coords="507,5,631,317"/>
+<area shape="rect" id="node9" href="$classRVO_1_1Agent.html" title="Defines an agent in the simulation." alt="" coords="471,424,666,765"/>
+</map>

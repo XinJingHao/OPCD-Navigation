@@ -1,0 +1,5 @@
+<map id="gazebo::PedestrianSFMPlugin::handlePedestrians" name="gazebo::PedestrianSFMPlugin::handlePedestrians">
+<area shape="rect" id="node1" title="Helper function to detect the nearby pedestrians (other actors)." alt="" coords="531,5,745,47"/>
+<area shape="rect" id="node2" href="$classgazebo_1_1PedestrianSFMPlugin.html#a65bf7c30a53fb4a79ef51fd9caf081ab" title="Function that is called every update cycle." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classgazebo_1_1PedestrianSFMPlugin.html#abfa23219fec8ff5349f037e06903c855" title="Load the actor plugin." alt="" coords="5,5,220,47"/>
+</map>

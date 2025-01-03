@@ -1,0 +1,14 @@
+<map id="spencer_tracking_rviz_plugin::TrackedPersonsDisplay::processMessage" name="spencer_tracking_rviz_plugin::TrackedPersonsDisplay::processMessage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,331,232,387"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#a55edd23b582a390218d63b32739be430" title=" " alt="" coords="280,5,579,76"/>
+<area shape="rect" id="node3" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#abdd5cd4537e4a1c9ea066b5ba6f74299" title="Create a visual representation of the person itself, if not set yet." alt="" coords="280,100,579,171"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1TrackedPersonsDisplay.html#a5f85a2a7dfdcf9615c8e17c6b766da98" title="Must be implemented by derived classes because MOC doesn&#39;t work in templates." alt="" coords="316,195,543,251"/>
+<area shape="rect" id="node5" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#a1acf8e4b0f39b95a36ed612547542ead" title=" " alt="" coords="280,276,579,347"/>
+<area shape="rect" id="node6" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#a806d743480f8751df3a739deaef9edf5" title="Common message processing. This method needs to be called by derived classes." alt="" coords="280,371,579,441"/>
+<area shape="rect" id="node7" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#a18c3823a3bfcb8c32e38b8c870137358" title="Set pose and orientation of person visual." alt="" coords="280,465,579,536"/>
+<area shape="rect" id="node8" href="$social__activities__display_8cpp.html#aab04a6236c332cd7f7e1cee9e4617bd0" title=" " alt="" coords="709,557,843,583"/>
+<area shape="rect" id="node9" href="$classspencer__tracking__rviz__plugin_1_1TrackedPersonsDisplay.html#a47a9c9db7533d5e532147db682e30028" title="Update all dynamically adjusted visualization properties (colors, font sizes etc.) of all currently t..." alt="" coords="316,615,543,671"/>
+<area shape="rect" id="node10" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#aae9efc5ce99f730a6687c1a2bc0cb74a" title="Applies common styles which apply to person visuals, such as line width etc." alt="" coords="627,608,925,679"/>
+<area shape="rect" id="node11" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#abd16abe4a0cbbc7b82bc8868a3fcc8b6" title="Get a color based upon track / detection ID." alt="" coords="627,703,925,773"/>
+<area shape="rect" id="node12" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html#ac42bad6f85ef7c5399a57146e1566334" title="Checks if a person shall be hidden (can be set using include/exclude person ID properties in GUI)" alt="" coords="627,797,925,868"/>
+</map>

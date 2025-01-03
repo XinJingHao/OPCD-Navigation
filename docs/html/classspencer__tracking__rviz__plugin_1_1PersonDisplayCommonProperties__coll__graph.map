@@ -1,0 +1,5 @@
+<map id="spencer_tracking_rviz_plugin::PersonDisplayCommonProperties" name="spencer_tracking_rviz_plugin::PersonDisplayCommonProperties">
+<area shape="rect" id="node1" title="Common properties shared by multiple displays." alt="" coords="5,175,271,575"/>
+<area shape="rect" id="node2" title=" " alt="" coords="10,20,85,97"/>
+<area shape="rect" id="node3" href="$classspencer__tracking__rviz__plugin_1_1StylesChangedSubscriber.html" title="Subclasses of PersonDisplayCommon can override stylesChanged() to get notified when one of the proper..." alt="" coords="109,5,351,112"/>
+</map>

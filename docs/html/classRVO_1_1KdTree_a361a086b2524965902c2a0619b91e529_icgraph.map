@@ -1,0 +1,4 @@
+<map id="RVO::KdTree::queryVisibility" name="RVO::KdTree::queryVisibility">
+<area shape="rect" id="node1" title="Queries the visibility between two points within a specified radius." alt="" coords="211,13,415,39"/>
+<area shape="rect" id="node2" href="$classRVO_1_1RVOSimulator.html#af4c9841ec9417c9bcf183af6bf6ce62b" title="Performs a visibility query between the two specified points with respect to the obstacles." alt="" coords="5,5,163,47"/>
+</map>

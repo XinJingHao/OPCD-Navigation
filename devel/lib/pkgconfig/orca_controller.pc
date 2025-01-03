@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/devel
+
+Name: orca_controller
+Description: Description of orca_controller
+Version: 0.0.0
+Cflags: -I/home/xjh/ros_motion_planning/src/core/controller/orca_controller/include
+Libs: -L${prefix}/lib 
+Requires: controller

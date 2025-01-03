@@ -1,0 +1,24 @@
+------------------------------------------------------------
+		## Training Configuration of Transqer ##
+
+window_size = 800
+D = 400
+O = 15
+StaticObs = [area=6,sn=2,rate=0.1]
+Obs_V = 50
+
+Robot_max_V = [50cm/s, 2rad/s]
+LiDAR = [300cm, 360度, 72Stream, 3Group]
+K = [0.55,0.6]
+Ctrl_Frequence = 10Hz
+Ctrl_Delay = 0
+target_area = 30cm
+_target_point_init=(0.6,0.9)
+_car_loc_init=4*car_radius
+
+Max_train_steps = 3E6, reset_freq = 32E3
+Algorithm = ld360-SI-Transqer-DDQN(T10-L3-H8-W64)；只有LiDAR过Transformer，然后和s(t)cat)
+DR=True
+Noise=True
+test_opt.N = 10
+------------------------------------------------------------

@@ -1,0 +1,13 @@
+<map id="src/core/common/include/common/geometry/curve.h" name="src/core/common/include/common/geometry/curve.h">
+<area shape="rect" id="node1" title=": Curve generation" alt="" coords="255,5,457,47"/>
+<area shape="rect" id="node2" href="$core_2common_2include_2common_2geometry_2point_8h.html" title=" " alt="" coords="144,95,339,121"/>
+<area shape="rect" id="node8" href="$math__helper_8h.html" title=": math helper function" alt="" coords="363,95,578,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="373,244,435,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="303,169,366,196"/>
+<area shape="rect" id="node5" href="$log_8h.html" title=" " alt="" coords="87,169,227,196"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,244,120,271"/>
+<area shape="rect" id="node7" title=" " alt="" coords="145,244,290,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="441,169,500,196"/>
+<area shape="rect" id="node10" href="$vec2d_8h.html" title="Defines the Vec2d class." alt="" coords="525,169,726,196"/>
+<area shape="rect" id="node11" title=" " alt="" coords="596,244,655,271"/>
+</map>

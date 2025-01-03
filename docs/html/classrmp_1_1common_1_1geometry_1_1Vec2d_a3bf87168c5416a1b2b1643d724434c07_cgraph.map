@@ -1,0 +1,4 @@
+<map id="rmp::common::geometry::Vec2d::selfRotate" name="rmp::common::geometry::Vec2d::selfRotate">
+<area shape="rect" id="node1" title="rotate the vector itself by angle." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a1040520505cdecf51b742f0f6c47f83d" title="Gets the angle between the vector and the positive x semi&#45;axis." alt="" coords="237,5,421,47"/>
+</map>

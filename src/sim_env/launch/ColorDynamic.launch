@@ -1,0 +1,88 @@
+<!--
+******************************************************************************************
+*  Copyright (c) 2024 Jinghao Xin, All Rights Reserved                                   
+*                                                                                        
+*  @brief    Launch gazebo simulation for ColorDynamic.                     
+*  @author   Jinghao Xin                                                                 
+*  @version  0.0.2                                                                       
+*  @date     2024.12.09                                                                  
+*  @license  GNU General Public License (GPL)      
+****************************************************************************************** 
+-->
+
+<launch>
+  <!-- select the robots, the world and the map -->
+  <arg name="world" default="warehouse_L1_L3_L4" /> <!-- warehouse_L1_L3_L4 / warehouse -->
+  <arg name="map" default="warehouse" /> <!-- only have L1 obstacles' information -->
+
+  <!-- select the number of robots -->
+  <arg name="robot_number" default="1" />
+
+  <!-- some other parameters -->
+  <arg name="debug" default="false" />
+  <arg name="gui" default="true" />
+  <arg name="headless" default="false" />
+  <arg name="rviz_file" default="sim_env.rviz" />
+
+  <!-- start Gazebo with a specific world -->
+  <include file="$(find gazebo_ros)/launch/empty_world.launch" unless="$(eval arg('world') == '')">
+    <arg name="world_name" value="$(find sim_env)/worlds/$(arg world).world" />
+    <arg name="debug" value="$(arg debug)" />
+    <arg name="gui" value="$(arg gui)" />
+    <arg name="headless" value="$(arg headless)" />
+    <arg name="paused" value="false" />
+    <arg name="use_sim_time" value="true" />
+  </include>
+
+  <!-- start map-server and publish user's map -->
+  <node name="map_server" pkg="map_server" type="map_server" args="$(find sim_env)/maps/$(arg map)/$(arg map).yaml"
+    unless="$(eval arg('map') == '')" />
+    
+
+  <!-- ================================= ↓↓↓ FML Robot ↓↓↓ ================================= -->
+  <!-- XJH: 向gazebo添加robot,并开启gazebo真实状态发布节点(开启后就不要用acml了) -->
+  <include file="$(find sim_env)/launch/include/robots/spawn_a_fml_robot.launch">
+      <arg name="namespace" value="fml_robot_0" />
+      <arg name="x" value="0" />
+      <arg name="y" value="0" />
+      <arg name="rotate_z" value="-1.57" />
+  </include>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="real_puber_robot" args="fml_robot_0 /base_footprint" output="log"/>
+  <!-- ================================= ↑↑↑ FML Robot ↑↑↑ ================================= -->
+
+
+
+
+
+  <!-- ================================= ↓↓↓ Layer2: Know Dynamic Obstacles ↓↓↓ ================================= -->
+  <include file="$(find sim_env)/launch/include/robots/Layer2Launch.launch" />
+  <!-- ================================= ↑↑↑ Layer2: Know Dynamic Obstacles ↑↑↑ ================================= -->
+
+
+
+
+
+  <!-- ================================= ↓↓↓ Layer1: Know Static Obstacles ↓↓↓ ================================= -->
+  <!-- 开启障碍物TF关系发布节点 -->
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_3_0" args="B_1_3_0" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_3_1" args="B_1_3_1" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_3_2" args="B_1_3_2" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_3_3" args="B_1_3_3" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_3_4" args="B_1_3_4" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_3_5" args="B_1_3_5" output="log"/>
+
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_4_0" args="B_1_4_0" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_4_1" args="B_1_4_1" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_4_2" args="B_1_4_2" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_4_3" args="B_1_4_3" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_4_4" args="B_1_4_4" output="log"/>
+  <node pkg="sim_env" type="multi_pub_real_coordinate.py" name="B_1_4_5" args="B_1_4_5" output="log"/>
+  <!-- ================================= ↑↑↑ Layer1: Know Static Obstacles ↑↑↑ ================================= -->  
+
+
+
+  <!-- open rviz for visualization -->
+  <node pkg="dynamic_rviz_config" type="rviz_generate.py" name="rosapp_rviz" args="$(arg robot_number)" output="log" if="$(eval arg('rviz_file') == '')" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find sim_env)/rviz/$(arg rviz_file)" unless="$(eval arg('rviz_file') == '')" />
+
+</launch>

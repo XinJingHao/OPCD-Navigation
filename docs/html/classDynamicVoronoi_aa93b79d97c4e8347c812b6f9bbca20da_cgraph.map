@@ -1,0 +1,5 @@
+<map id="DynamicVoronoi::clearCell" name="DynamicVoronoi::clearCell">
+<area shape="rect" id="node1" title="remove an obstacle at the specified cell coordinate" alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#a5b02541f71e8d355fccc642dfbab37d2" title=" " alt="" coords="248,5,493,32"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a04fbb8a139fdcad75a4f3b6f26228891" title="checks whether the specficied location is occupied" alt="" coords="541,5,751,32"/>
+</map>

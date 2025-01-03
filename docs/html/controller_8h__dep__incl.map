@@ -1,0 +1,16 @@
+<map id="src/core/controller/controller/include/controller/controller.h" name="src/core/controller/controller/include/controller/controller.h">
+<area shape="rect" id="node1" title=": Contains the abstract Controller class" alt="" coords="685,5,851,61"/>
+<area shape="rect" id="node2" href="$apf__controller_8h.html" title=": Contains the Artificial Potential Field (APF) local controller class" alt="" coords="5,109,200,165"/>
+<area shape="rect" id="node4" href="$controller_8cpp.html" title=": Contains the abstract local controller class" alt="" coords="225,117,429,158"/>
+<area shape="rect" id="node5" href="$lqr__controller_8h.html" title=": Contains the linear quadratic regulator (LQR) local controller class" alt="" coords="453,109,643,165"/>
+<area shape="rect" id="node7" href="$mpc__controller_8h.html" title=": Contains the model predicted control (MPC) local controller class" alt="" coords="667,109,869,165"/>
+<area shape="rect" id="node9" href="$orca__controller_8h.html" title=": Contains the ORCA local controller class" alt="" coords="893,109,1094,165"/>
+<area shape="rect" id="node11" href="$pid__controller_8h.html" title=": Contains the Proportional–Integral–Derivative (PID) controller local controller class" alt="" coords="1118,109,1311,165"/>
+<area shape="rect" id="node13" href="$rpp__controller_8h.html" title=": Contains the regulated_pure_pursuit (RPP) local controller class" alt="" coords="1336,109,1531,165"/>
+<area shape="rect" id="node3" href="$apf__controller_8cpp.html" title=": Contains the Artificial Potential Field (APF) local controller class" alt="" coords="31,213,174,269"/>
+<area shape="rect" id="node6" href="$lqr__controller_8cpp.html" title=": Contains the linear quadratic regulator (LQR) local controller class" alt="" coords="479,213,617,269"/>
+<area shape="rect" id="node8" href="$mpc__controller_8cpp.html" title=" " alt="" coords="693,213,843,269"/>
+<area shape="rect" id="node10" href="$orca__controller_8cpp.html" title=" " alt="" coords="918,213,1069,269"/>
+<area shape="rect" id="node12" href="$pid__controller_8cpp.html" title=": Contains the Proportional–Integral–Derivative (PID) controller local controller class" alt="" coords="1143,213,1286,269"/>
+<area shape="rect" id="node14" href="$rpp__controller_8cpp.html" title=": Contains the regulated_pure_pursuit (RPP) local controller class" alt="" coords="1362,213,1505,269"/>
+</map>

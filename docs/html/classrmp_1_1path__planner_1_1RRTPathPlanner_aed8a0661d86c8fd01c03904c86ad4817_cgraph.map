@@ -1,0 +1,8 @@
+<map id="rmp::path_planner::RRTPathPlanner::_checkGoal" name="rmp::path_planner::RRTPathPlanner::_checkGoal">
+<area shape="rect" id="node1" title="Check if goal is reachable from current node." alt="" coords="5,136,215,177"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1structure_1_1Node.html#ac02ec547b8e7a6df02b0101df874d608" title=" " alt="" coords="263,5,441,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1path__planner_1_1PathPlanner.html#a59f59f8c3b404685e0407a9218d8bf7c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="263,71,441,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1structure_1_1Node.html#ad448a4c7fdeeabcb1d3900b072ec082a" title=" " alt="" coords="263,136,441,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1structure_1_1Node.html#ade6527ddc36fcb2a693b332e67e83516" title="get the property of node" alt="" coords="263,201,441,243"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1structure_1_1Node.html#a9f81d3865c725e046bafcabf6c30ad6c" title=" " alt="" coords="263,267,441,308"/>
+</map>

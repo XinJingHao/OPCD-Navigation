@@ -1,0 +1,2 @@
+set(spencer_human_attribute_msgs_MESSAGE_FILES "/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_messages/spencer_human_attribute_msgs/msg/CategoricalAttribute.msg;/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_messages/spencer_human_attribute_msgs/msg/ScalarAttribute.msg;/home/xjh/ros_motion_planning/src/plugins/rviz_plugins/spencer_messages/spencer_human_attribute_msgs/msg/HumanAttributes.msg")
+set(spencer_human_attribute_msgs_SERVICE_FILES "")

@@ -1,0 +1,4 @@
+<map id="rmp::controller::MPCController::_mpcControl" name="rmp::controller::MPCController::_mpcControl">
+<area shape="rect" id="node1" title="Execute MPC control process." alt="" coords="272,5,491,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1MPCController.html#a267d55c75fe3983794d0cfda1f0c6c87" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,224,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rmp::common::geometry::Vec2d::createUnitVec2d" name="rmp::common::geometry::Vec2d::createUnitVec2d">
+<area shape="rect" id="node1" title="Creates a unit&#45;vector with a given angle to the positive x semi&#45;axis." alt="" coords="5,39,192,80"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a1040520505cdecf51b742f0f6c47f83d" title="Gets the angle between the vector and the positive x semi&#45;axis." alt="" coords="240,5,424,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#abcb7c3ec3ae9a1dd39b24a1c1e985b00" title="Constructor returning the zero vector." alt="" coords="240,71,424,112"/>
+</map>

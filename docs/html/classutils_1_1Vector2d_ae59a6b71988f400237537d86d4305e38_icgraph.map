@@ -1,0 +1,15 @@
+<map id="utils::Vector2d::set" name="utils::Vector2d::set">
+<area shape="rect" id="node1" title=" " alt="" coords="793,267,937,294"/>
+<area shape="rect" id="node2" href="$classsfm_1_1SocialForceModel.html#adfb785f75f0b0c04f860cba17447d9c0" title=" " alt="" coords="553,5,723,47"/>
+<area shape="rect" id="node4" href="$classsfm_1_1SocialForceModel.html#a7380c37d6995a6382a52aec039c7460c" title=" " alt="" coords="549,71,727,112"/>
+<area shape="rect" id="node5" href="$classsfm_1_1SocialForceModel.html#a8634d758b44c1beffabb272c768bf398" title=" " alt="" coords="553,136,723,177"/>
+<area shape="rect" id="node6" href="$classgazebo_1_1PedestrianSFMPlugin.html#a8e0c4e016d6ee421b681f56eaf19d6b3" title="Helper function to detect the nearby pedestrians (other actors)." alt="" coords="531,201,745,243"/>
+<area shape="rect" id="node9" href="$structsfm_1_1Agent.html#ad62fb5bccadfa882b9761d1af1891ad4" title=" " alt="" coords="569,267,707,294"/>
+<area shape="rect" id="node10" href="$classutils_1_1Vector2d.html#a4257209b6e23f9d9d094978669b4b07f" title=" " alt="" coords="537,318,739,345"/>
+<area shape="rect" id="node11" href="$classutils_1_1Vector2d.html#a4f1966a9a4d3bd13467bfd38d3bca853" title=" " alt="" coords="541,369,735,395"/>
+<area shape="rect" id="node12" href="$classgazebo_1_1PedestrianSFMPlugin.html#a2307be4cb24e87e8e015733e76530f0b" title="Initialize the social force model." alt="" coords="268,375,483,416"/>
+<area shape="rect" id="node13" href="$classsfm_1_1SocialForceModel.html#a521341457e1d6eff8f2ed8bf3ec9c424" title=" " alt="" coords="553,471,723,512"/>
+<area shape="rect" id="node3" href="$classsfm_1_1SocialForceModel.html#a4caa8a8399b11f42b0eea7df623fecd1" title=" " alt="" coords="291,71,460,112"/>
+<area shape="rect" id="node7" href="$classgazebo_1_1PedestrianSFMPlugin.html#a65bf7c30a53fb4a79ef51fd9caf081ab" title="Function that is called every update cycle." alt="" coords="268,237,483,279"/>
+<area shape="rect" id="node8" href="$classgazebo_1_1PedestrianSFMPlugin.html#abfa23219fec8ff5349f037e06903c855" title="Load the actor plugin." alt="" coords="5,343,220,384"/>
+</map>

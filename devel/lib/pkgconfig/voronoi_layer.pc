@@ -1,0 +1,8 @@
+prefix=/home/xjh/ros_motion_planning/devel
+
+Name: voronoi_layer
+Description: Description of voronoi_layer
+Version: 0.0.0
+Cflags: -I/home/xjh/ros_motion_planning/src/plugins/map_plugins/voronoi_layer/include
+Libs: -L${prefix}/lib -lvoronoi_layer
+Requires: costmap_2d dynamic_reconfigure nav_msgs roscpp

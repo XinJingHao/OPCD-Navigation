@@ -1,0 +1,5 @@
+<map id="rmp::common::geometry::BezierCurve::getControlPoints" name="rmp::common::geometry::BezierCurve::getControlPoints">
+<area shape="rect" id="node1" title="Calculate control points heuristically." alt="" coords="472,5,697,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BezierCurve.html#a1d57336c6ce698a975c415144e76b1af" title="Generate the path." alt="" coords="237,5,424,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1BezierCurve.html#ae1ae90e23bf5a9ef73f7592195cb7339" title="Running trajectory generation." alt="" coords="5,5,189,47"/>
+</map>

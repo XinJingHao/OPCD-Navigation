@@ -1,0 +1,50 @@
+<robot name="my_car_move" xmlns:xacro="http://wiki.ros.org/xacro">
+    <!-- 传动实现:用于连接控制器与关节 -->
+    <xacro:macro name="joint_trans" params="joint_name">
+        <!-- Transmission is important to link the joints and the controller -->
+        <transmission name="${joint_name}_trans">
+            <type>transmission_interface/SimpleTransmission</type>
+            <joint name="${joint_name}">
+                <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
+            </joint>
+            <actuator name="${joint_name}_motor">
+                <hardwareInterface>hardware_interface/VelocityJointInterface</hardwareInterface>
+                <mechanicalReduction>1</mechanicalReduction>
+            </actuator>
+        </transmission>
+    </xacro:macro>
+
+    <!-- 每一个驱动轮都需要配置传动装置 ，名称要参考驱动轮与base_link相连接的joint的名称-->
+    <xacro:joint_trans joint_name="left2link" />
+    <xacro:joint_trans joint_name="right2link" />
+
+    <!-- 控制器：差速控制器 -->
+    <gazebo>
+        <plugin name="differential_drive_controller" filename="libgazebo_ros_diff_drive.so">
+            <rosDebugLevel>Debug</rosDebugLevel>
+            <publishWheelTF>false</publishWheelTF> <!-- https://blog.csdn.net/FRIGIDWINTER/article/details/126291629 -->
+            <publishWheelJointState>false</publishWheelJointState>  <!-- https://blog.csdn.net/FRIGIDWINTER/article/details/126291629 -->
+            <!-- <robotNamespace>/</robotNamespace>  --> <!-- 这里必须注释，否则无法通过group的ns修改传感器的topic -->
+            <publishTf>1</publishTf>
+            <alwaysOn>true</alwaysOn>
+            <updateRate>100</updateRate>
+            <legacyMode>true</legacyMode>
+            <leftJoint>left2link</leftJoint> <!-- 左轮joint -->
+            <rightJoint>right2link</rightJoint> <!-- 右轮joint -->
+            <wheelSeparation>${wheel_joint_y * 2.25}</wheelSeparation> <!--车轮间距，正常应该*2(但是只能达到1.7rad/s。这里调整了一下，以达到2rad/s)-->
+            <wheelDiameter>${wheel_radius * 2}</wheelDiameter> <!-- 车轮直径 -->
+            <broadcastTF>1</broadcastTF>
+            <wheelTorque>30</wheelTorque>
+            <wheelAcceleration>3</wheelAcceleration> <!-- 决定加速度，类似PID参数 -->
+            <commandTopic>cmd_vel</commandTopic> <!-- 速度话题, 不要加/，否则就变成全局话题了 -->
+            <odometryTopic>odom</odometryTopic> <!-- 里程计话题 -->
+            <odometryFrame>odom</odometryFrame>
+            <robotBaseFrame>base_footprint</robotBaseFrame> <!-- 根坐标系base_footprint; 这里不需要加ns，因为robot_state_publisher的tf_prefix会加 -->
+
+            <!-- 如果使用robot_pose_ekf,这里要设置成false. -->
+            <!-- 因为ekf会发布odom_combined到base_footpint的TF, 如果gazebo也发送odom到base_footpint的TF, 会造成base_footpint有两个父级TF而报错 -->
+            <publishOdomTF>false</publishOdomTF> 
+        </plugin>
+    </gazebo>
+
+</robot>

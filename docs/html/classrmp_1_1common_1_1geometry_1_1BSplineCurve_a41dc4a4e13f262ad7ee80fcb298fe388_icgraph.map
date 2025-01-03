@@ -1,0 +1,5 @@
+<map id="rmp::common::geometry::BSplineCurve::approximation" name="rmp::common::geometry::BSplineCurve::approximation">
+<area shape="rect" id="node1" title="Given a set of N data points, D0, D1, ..., Dn, a degree k, and a number H, where N &gt; H &gt; k &gt;= 1,..." alt="" coords="469,5,689,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#a33c128ed86557a7321b5c7cac113cb8e" title="Running trajectory generation." alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1BSplineCurve.html#aec478c23fbb021aed868f8cadcc53d88" title="Running trajectory generation." alt="" coords="5,5,189,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rmp::common::geometry::Vec2d::Vec2d" name="rmp::common::geometry::Vec2d::Vec2d">
+<area shape="rect" id="node1" title="Constructor returning the zero vector." alt="" coords="240,169,424,211"/>
+<area shape="rect" id="node2" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#ac9de28b298196919b9eccf89944f0a5a" title="Creates a unit&#45;vector with a given angle to the positive x semi&#45;axis." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#adda823e85de2415c38440aa93931a820" title="Multiplies Vec2d by a scalar." alt="" coords="7,71,191,112"/>
+<area shape="rect" id="node4" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#a1d9c65a4988618deb0ce279044bf0d79" title="Sums two Vec2d." alt="" coords="7,136,191,177"/>
+<area shape="rect" id="node5" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#ace5dc92f1b3bbd5340284dca6810b0e7" title="Subtracts two Vec2d." alt="" coords="7,201,191,243"/>
+<area shape="rect" id="node6" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#acff85c53b7ddfc7a4c475f5d8008b9f4" title="Divides Vec2d by a scalar." alt="" coords="7,267,191,308"/>
+<area shape="rect" id="node7" href="$classrmp_1_1common_1_1geometry_1_1Vec2d.html#acca14ec4011f26e064b51516688be3a5" title="rotate the vector by angle." alt="" coords="7,332,191,373"/>
+</map>

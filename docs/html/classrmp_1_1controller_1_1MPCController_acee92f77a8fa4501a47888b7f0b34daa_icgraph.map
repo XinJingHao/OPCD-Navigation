@@ -1,0 +1,4 @@
+<map id="rmp::controller::MPCController::initialize" name="rmp::controller::MPCController::initialize">
+<area shape="rect" id="node1" title="Initialization of the local planner." alt="" coords="272,5,491,47"/>
+<area shape="rect" id="node2" href="$classrmp_1_1controller_1_1MPCController.html#a11086d3ae1f412043d734f42d25e25ad" title="Construct a new MPC planner object." alt="" coords="5,5,224,47"/>
+</map>

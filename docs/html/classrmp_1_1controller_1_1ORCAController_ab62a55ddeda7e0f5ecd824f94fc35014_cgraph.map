@@ -1,0 +1,18 @@
+<map id="rmp::controller::ORCAController::computeVelocityCommands" name="rmp::controller::ORCAController::computeVelocityCommands">
+<area shape="rect" id="node1" title=" " alt="" coords="5,221,232,263"/>
+<area shape="rect" id="node2" href="$namespaceRVO.html#a7dfc210ac834d1de9bfde0b42d91e8b8" title=" " alt="" coords="872,261,953,287"/>
+<area shape="rect" id="node3" href="$classrmp_1_1controller_1_1Controller.html#a70032e281a2c432edc08639dd89041e2" title="angular velocity regularization" alt="" coords="298,71,489,112"/>
+<area shape="rect" id="node4" href="$classRVO_1_1RVOSimulator.html#a8ca740474f2669006133782e234ce150" title=" " alt="" coords="315,5,472,47"/>
+<area shape="rect" id="node7" href="$classrmp_1_1controller_1_1Controller.html#a7571bb065fdde2c4987f4fbdd1a0ff75" title="linear velocity regularization" alt="" coords="298,188,489,229"/>
+<area shape="rect" id="node8" href="$classrmp_1_1controller_1_1Controller.html#abbf73344b0061abf0765e9c0b84ec6b6" title="Regularize angle to [&#45;pi, pi]." alt="" coords="298,253,489,295"/>
+<area shape="rect" id="node9" href="$classrmp_1_1controller_1_1ORCAController.html#a2410d9fe58e5ac8d23daeb6d98e17244" title=" " alt="" coords="280,319,507,360"/>
+<area shape="rect" id="node15" href="$classRVO_1_1Vector2.html#aa689b7fa8d6c0cf663f11ee87198a656" title="Returns the x&#45;coordinate of this two&#45;dimensional vector." alt="" coords="331,385,455,411"/>
+<area shape="rect" id="node16" href="$classRVO_1_1Vector2.html#a55856193891e320ad1ba35d91779d749" title="Returns the y&#45;coordinate of this two&#45;dimensional vector." alt="" coords="331,435,455,462"/>
+<area shape="rect" id="node5" href="$classRVO_1_1KdTree.html#a66afab92f8718ee6018870fe776f85e3" title="Builds an agent k&#45;D tree." alt="" coords="555,13,761,39"/>
+<area shape="rect" id="node6" href="$classRVO_1_1KdTree.html#a5708426434985a7c4b1ff3d3e6914981" title="Recursive function to build an agent k&#45;D tree." alt="" coords="809,5,1016,47"/>
+<area shape="rect" id="node10" href="$classRVO_1_1RVOSimulator.html#a2b806ecc50805904a65914dc3795db81" title="Returns the two&#45;dimensional position of a specified agent." alt="" coords="579,319,737,360"/>
+<area shape="rect" id="node11" href="$namespaceRVO.html#a7fcc365196c28604face4f6302f53273" title=" " alt="" coords="597,385,719,411"/>
+<area shape="rect" id="node12" href="$classRVO_1_1RVOSimulator.html#a78fa01b0fe8f91970f85f229b2652573" title="Sets the two&#45;dimensional position of a specified agent." alt="" coords="579,436,737,477"/>
+<area shape="rect" id="node13" href="$classRVO_1_1RVOSimulator.html#aa94a6c6c3a2244def6b15921b0f40146" title="Sets the two&#45;dimensional preferred velocity of a specified agent." alt="" coords="579,188,737,229"/>
+<area shape="rect" id="node14" href="$classRVO_1_1RVOSimulator.html#a88fd2a488f8e0ce66d1190600c9c227e" title="Sets the two&#45;dimensional linear velocity of a specified agent." alt="" coords="579,253,737,295"/>
+</map>

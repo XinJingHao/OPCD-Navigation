@@ -1,0 +1,4 @@
+<map id="costmap_2d::VoronoiLayer" name="costmap_2d::VoronoiLayer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,200,413"/>
+<area shape="rect" id="node2" title=" " alt="" coords="73,5,132,83"/>
+</map>

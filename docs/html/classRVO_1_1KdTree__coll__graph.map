@@ -1,0 +1,8 @@
+<map id="RVO::KdTree" name="RVO::KdTree">
+<area shape="rect" id="node1" title="Defines k&#45;D trees for agents and static obstacles in the simulation." alt="" coords="30,1133,257,1431"/>
+<area shape="rect" id="node5" href="$classRVO_1_1RVOSimulator.html" title="Defines the simulation. The main class of the library that contains all simulation functionality." alt="" coords="104,1493,364,2319"/>
+<area shape="rect" id="node2" href="$classRVO_1_1KdTree_1_1ObstacleTreeNode.html" title="Defines an obstacle k&#45;D tree node." alt="" coords="5,949,233,1071"/>
+<area shape="rect" id="node3" href="$classRVO_1_1Obstacle.html" title="Defines static obstacles in the simulation." alt="" coords="83,424,198,560"/>
+<area shape="rect" id="node4" href="$classRVO_1_1Vector2.html" title="Defines a two&#45;dimensional vector." alt="" coords="179,5,303,317"/>
+<area shape="rect" id="node6" href="$classRVO_1_1Agent.html" title="Defines an agent in the simulation." alt="" coords="241,584,435,925"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DynamicVoronoi::prune" name="DynamicVoronoi::prune">
+<area shape="rect" id="node1" title="prune the Voronoi diagram" alt="" coords="5,81,180,108"/>
+<area shape="rect" id="node2" href="$classBucketPrioQueue.html#a4140b9e2e9c7922bcc83d0686c33478f" title="Checks whether the Queue is empty." alt="" coords="249,5,431,32"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a299433d390d9b8ffe5b67cfaadef8215" title=" " alt="" coords="228,56,452,83"/>
+<area shape="rect" id="node4" href="$classBucketPrioQueue.html#a8ec0200b749df22b8755b333ec2abe09" title="return and pop the element with the lowest squared distance *‍/" alt="" coords="257,107,423,133"/>
+<area shape="rect" id="node5" href="$classBucketPrioQueue.html#ab7d8a883f955569d0ead5dc56ec3d3fa" title="push an element" alt="" coords="254,157,426,184"/>
+</map>

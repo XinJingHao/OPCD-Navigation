@@ -1,0 +1,4 @@
+<map id="rmp::path_planner::VoronoiPathPlanner::_updateVoronoi" name="rmp::path_planner::VoronoiPathPlanner::_updateVoronoi">
+<area shape="rect" id="node1" title="update voronoi object using costmap ROS wrapper" alt="" coords="240,5,399,61"/>
+<area shape="rect" id="node2" href="$classrmp_1_1path__planner_1_1VoronoiPathPlanner.html#a660c677db162e6aeab9fc6dd81ea9126" title="Voronoi&#45;based planning implementation." alt="" coords="5,13,192,54"/>
+</map>
