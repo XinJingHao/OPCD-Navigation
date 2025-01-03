@@ -118,6 +118,67 @@ This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai
     ```
 
 
+## Remarks
+
+### System Information:
+```c++
+    Ubuntu=20.04
+    ROS=Noetic
+    gazebo=11.11.0
+    rviz=1.14.20
+    python=3.8.3
+    CUDA Driver=550.120
+    CUDA Version=12.4
+```
+
+### File structure:
+```bash
+~/ros_motion_planner
+├── 3rd
+├── docs
+├── docker
+├── assets
+├── scripts # .sh scripts for start simulation
+└── src
+    ├── core
+    │   ├── common
+    │   ├── path_planner # Classical global planner
+    │   └── controller # Classical local planner
+    ├── pgm_map_creator # Occupancy grid map generator
+    ├── sim_env             # simulation environment
+    │   ├── config
+    │   ├── launch # Launch files for OPCD and Classical Planners
+    │   ├── maps
+    │   ├── meshes
+    │   ├── models
+    │   ├── rviz
+    │   ├── scripts # Python scripts of OkayPlan and ColorDynamic
+    │   ├── urdf # urdf files for Gazebo robot simulation
+    │   └── worlds
+    ├── plugins
+    │   ├── dynamic_rviz_config
+    │   ├── dynamic_xml_config
+    │   ├── gazebo_plugins
+    │   ├── map_plugins
+    │   └── rviz_plugins
+    └── user_config         # user configure file for Classical Planner
+```
 
 
+
+## Citing this Project
+
+To cite this repository in publications:
+
+```bibtex
+@article{OPCD2025,
+title = {OkayPlan and ColorDynamic},
+journal = {XXX},
+volume = {XXX},
+pages = {XXX},
+year = {2025},
+issn = {XXXX-XXXX},
+author = {Jinghao Xin},
+}
+```
 
