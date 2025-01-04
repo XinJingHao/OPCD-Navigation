@@ -116,6 +116,12 @@ This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai
     ```
 
 
+## Train your own local planner
+Refer to ColorDynamic
+
+
+
+
 ## Remarks
 
 ### System Information:
