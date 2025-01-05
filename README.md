@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/OPCD-logo.png" width="300" /><br>
   <img src="https://img.shields.io/badge/Python-blue" />
-  <img src="https://img.shields.io/badge/DRL-blueviolet" />
+  <img src="https://img.shields.io/badge/Navigation-blueviolet" />
   <img src="https://img.shields.io/badge/ROS-ff69b4" />
 </p>
 
