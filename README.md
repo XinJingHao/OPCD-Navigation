@@ -1,4 +1,23 @@
-This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning).
+<p align="center">
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse3.gif" width="250" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real1.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real2.gif" width="250" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real3.gif" width="250" />
+</p>
+
+<p align="center"> <code>Note that the blue robots are random dynamic obstacles and white robot is our agent.</code> </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue" />
+  <img src="https://img.shields.io/badge/DRL-blueviolet" />
+  <img src="https://img.shields.io/badge/ROS-ff69b4" />
+</p>
+
 
 
 ## Installation
@@ -185,4 +204,7 @@ issn = {XXXX-XXXX},
 author = {Jinghao Xin},
 }
 ```
+
+## Important Notes:
+This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning).
 
