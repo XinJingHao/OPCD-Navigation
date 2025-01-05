@@ -118,14 +118,14 @@
     ./ColorDynamic.sh # wait for the Gazebo and Rviz to get ready
     ```
 
-2. Start the **OkayPlan** global planner:
+2. Start the [OkayPlan](https://github.com/XinJingHao/OkayPlan) global planner:
     ```bash
     cd ~/ros_motion_planning/src/sim_env/scripts/OkayPlan_ColorDynamic/Play/OkayPlan/
     conda activate opcd
     python OkayPlan_main.py
     ```
 
-3. Start the **ColorDynamic** local planner:
+3. Start the [ColorDynamic](https://github.com/XinJingHao/ColorDynamic) local planner:
     ```bash
     cd ~/ros_motion_planning/src/sim_env/scripts/OkayPlan_ColorDynamic/Play/ColorDynamic/
     conda activate opcd
@@ -144,11 +144,6 @@
     cd ~/ros_motion_planning/scripts/
     ./killpro.sh
     ```
-
-## Planners
-Global Planner: [OkayPlan](https://github.com/XinJingHao/OkayPlan)
-
-Local Planner: [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 
 <br>
 
