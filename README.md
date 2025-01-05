@@ -1,4 +1,22 @@
 <p align="center">
+  <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/OPCD-logo.png" width="300" /><br>
+  <img src="https://img.shields.io/badge/Python-blue" />
+  <img src="https://img.shields.io/badge/DRL-blueviolet" />
+  <img src="https://img.shields.io/badge/ROS-ff69b4" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>The OPCD (OkayPlan & ColorDynamic) Navigation System</strong><br>
+  <strong>for Unknown & Dynamic Environments</strong>
+</p>
+
+
+<br/>
+
+## Gallery
+<p align="center">
   <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse1.gif" width="250" />
   <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse2.gif" width="250" />
   <img src="https://github.com/XinJingHao/Images/blob/main/ColorDynamic/warehouse3.gif" width="250" />
@@ -9,14 +27,7 @@
   <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real2.gif" width="250" />
   <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/real3.gif" width="250" />
 </p>
-
 <p align="center"> <code>Note that the blue robots are random dynamic obstacles and white robot is our agent.</code> </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue" />
-  <img src="https://img.shields.io/badge/DRL-blueviolet" />
-  <img src="https://img.shields.io/badge/ROS-ff69b4" />
-</p>
 
 
 
@@ -134,12 +145,12 @@
     ./killpro.sh
     ```
 
+## Planners
+Global Planner: [OkayPlan](https://github.com/XinJingHao/OkayPlan)
 
-## Train your own local planner
-Refer to ColorDynamic
+Local Planner: [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
 
-
-
+<br>
 
 ## Remarks
 
