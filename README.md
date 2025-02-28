@@ -199,23 +199,32 @@ The video can be found [here](https://www.youtube.com/watch?v=5NMHKDOdt54).
 ```
 
 
+<br/>
+
+## Related Repos:
+- [OkayPlan](https://github.com/XinJingHao/OkayPlan)
+- [ColorDynamic](https://github.com/XinJingHao/ColorDynamic)
+- [Sparrow-V2](https://github.com/XinJingHao/Sparrow-V2)
+- [Sparrow-V3](https://github.com/XinJingHao/Sparrow-V3)
+- [OPCD](https://github.com/XinJingHao/OPCD-Navigation)
+
+<br/>
 
 ## Citing this Project
 
 To cite this repository in publications:
 
 ```bibtex
-@article{OPCD2025,
-title = {OkayPlan and ColorDynamic},
-journal = {XXX},
-volume = {XXX},
-pages = {XXX},
-year = {2025},
-issn = {XXXX-XXXX},
-author = {Jinghao Xin},
+@article{ColorDynamic,
+  title={ColorDynamic: Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments},
+  author={Jinghao Xin, Zhichao Liang, Zihuan Zhang, Peng Wang, and Ning Li},
+  journal={arXiv preprint arXiv:2502.19892},
+  year={2025}
 }
 ```
 
+<br/>
+
 ## Important Notes:
-This repo is modified from [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning).
+The ROS simulation environment is built on [ai-winter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning).
 
