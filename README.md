@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>The OPCD (OkayPlan & ColorDynamic) Navigation System</strong><br>
-  <strong>for Unknown & Dynamic Environments</strong>
+  <strong>for Unstructured & Dynamic Environments</strong>
 </p>
 
 
